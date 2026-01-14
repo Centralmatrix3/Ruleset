@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 32823
+# 规则统计: 32847
 
 no_resolve: true
 domain_set:
@@ -4574,6 +4574,7 @@ domain_suffix_set:
   - brotli.org
   - brourou.com
   - browser.kagi.com
+  - browser.run
   - brox-coll.ac.uk
   - broxtowe.ac.uk
   - bruford.ac.uk
@@ -5327,6 +5328,7 @@ domain_suffix_set:
   - cfas.ac.uk
   - cfblob.com
   - cfd-tv.com
+  - cfdata.org
   - cfdesign.com
   - cfl.re
   - cfldcol.ac.uk
@@ -5719,24 +5721,32 @@ domain_suffix_set:
   - cloudflare-esni.com
   - cloudflare-gateway.com
   - cloudflare-quic.com
+  - cloudflare-terms-of-service-abuse.com
+  - cloudflare.dev
   - cloudflare.net
   - cloudflare.tv
   - cloudflareaccess.com
   - cloudflareapps.com
   - cloudflarebolt.com
+  - cloudflarebrowser.com
+  - cloudflarechallenge.com
   - cloudflareclient.com
+  - cloudflarecp.com
   - cloudflareinsights.com
   - cloudflareok.com
   - cloudflarepartners.com
   - cloudflareportal.com
   - cloudflarepreview.com
   - cloudflareregistrar.com
+  - cloudflareresearch.com
   - cloudflareresolve.com
   - cloudflaressl.com
   - cloudflarestorage.com
   - cloudflarestream.com
+  - cloudflaresupport.com
   - cloudflaretest.com
   - cloudflarewarp.com
+  - cloudflareworkers.com
   - cloudfront.com
   - cloudhealthtech.com
   - cloudimage.io
@@ -8069,6 +8079,7 @@ domain_suffix_set:
   - enbank.ir
   - enbit.ac.uk
   - encoretvb.com
+  - encryptedsni.com
   - encuentroscasualesoecuador.com
   - enema-porn.com
   - enema-videos.com
@@ -8347,6 +8358,7 @@ domain_suffix_set:
   - espn.net
   - espncdn.com
   - espnqa.com
+  - esports.gg
   - esposasymaridos.com
   - esrc.ac.uk
   - esrcfestival.ac.uk
@@ -9741,9 +9753,11 @@ domain_suffix_set:
   - gamcore.com
   - game-platform.net
   - game-repack.site
+  - gameapps.hk
   - gamebeforethegame.com
   - gamebiz.jp
   - gamebusiness.jp
+  - gamefocus.co.kr
   - gamemeca.com
   - gameon-masters.com
   - gameover.com.hk
@@ -12096,6 +12110,7 @@ domain_suffix_set:
   - ig.me
   - igaychat.com
   - igayporn.tv
+  - igcc.jp
   - igcdn.com
   - iger.ac.uk
   - igetnaughty.com
@@ -12392,6 +12407,7 @@ domain_suffix_set:
   - innovations-i.com
   - innovations.ac.uk
   - inporn.com
+  - inquirer.net
   - inquisitionspostmortem.ac.uk
   - inshot.cc
   - inshot.com
@@ -14642,6 +14658,7 @@ domain_suffix_set:
   - magnacartacollege.ac.uk
   - mahajantech.com
   - mahsc.ac.uk
+  - maidonanews.jp
   - mail.com
   - maileoch.com
   - mailhealth.com
@@ -15743,6 +15760,7 @@ domain_suffix_set:
   - modperl.pl
   - modrinth.com
   - modular.im
+  - moedigi.com
   - moeero-library.com
   - moefuns.co
   - moeimg.net
@@ -16214,6 +16232,7 @@ domain_suffix_set:
   - myminiso.com
   - mymmode.com
   - mymusclevideo.com
+  - mynavi.jp
   - mynescol.ac.uk
   - mynetname.net
   - mynike.com
@@ -17666,6 +17685,7 @@ domain_suffix_set:
   - openapiplatform.com
   - openapiservice.com
   - openart.ai
+  - openbook.org.tw
   - opencas.io
   - opencollective.com
   - opencreate.org
@@ -19706,6 +19726,7 @@ domain_suffix_set:
   - repe21.com
   - repo.new
   - repositorynet.ac.uk
+  - repotama.com
   - repsils.no
   - repsneakermall.com
   - repswing.com
@@ -21489,6 +21510,7 @@ domain_suffix_set:
   - sqhwesternconsortium.ac.uk
   - sqlite.org
   - sqlserveronlinux.com
+  - sqool.net
   - squ1.com
   - squadbusters.com
   - squarecapital.com
@@ -22157,6 +22179,7 @@ domain_suffix_set:
   - tamesidecollege.ac.uk
   - tamilsexvideos.cc
   - tampabay.com
+  - tampermonkey.net
   - tamtam.chat
   - tamworth.ac.uk
   - tamworthandlichfield.ac.uk
@@ -22771,6 +22794,7 @@ domain_suffix_set:
   - toxin-up.sbs
   - toxinzoo.sbs
   - toy-cadcam.com
+  - toy-people.com
   - toycadcam.com
   - toyobank.co.jp
   - tpc.ac.uk
