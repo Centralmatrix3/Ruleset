@@ -1,5 +1,5 @@
 # 规则名称: Copilot
-# 规则统计: 49
+# 规则统计: 51
 
 no_resolve: true
 domain_set:
@@ -55,3 +55,6 @@ domain_keyword_set:
 ip_cidr_set:
   - 24.199.123.28/32
   - 64.23.132.171/32
+asn_set:
+  - 14061
+  - 20473

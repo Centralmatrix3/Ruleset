@@ -1,5 +1,5 @@
 # 规则名称: WeChat
-# 规则统计: 30
+# 规则统计: 31
 
 no_resolve: true
 domain_set:
@@ -34,3 +34,5 @@ domain_suffix_set:
   - wxapp.tc.qq.com
   - wxs.qq.com
   - yun-hl.3g.qq.com
+asn_set:
+  - 132203
