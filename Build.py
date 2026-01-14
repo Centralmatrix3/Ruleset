@@ -13,7 +13,8 @@ EGERN_RULE_MAP = {
     "DOMAIN-KEYWORD": "domain_keyword_set",
     "DOMAIN-WILDCARD": "domain_wildcard_set",
     "IP-CIDR": "ip_cidr_set",
-    "IP-CIDR6": "ip_cidr6_set"
+    "IP-CIDR6": "ip_cidr6_set",
+    "IP-ASN": "asn_set"
 }
 EGERN_RULE_QUOTE = {"domain_wildcard_set"}
 
