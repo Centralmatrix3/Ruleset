@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 32847
+# 规则统计: 32857
 
 no_resolve: true
 domain_set:
@@ -6897,6 +6897,7 @@ domain_suffix_set:
   - dilcdn.com
   - dilstoncollege.ac.uk
   - dingchin.com.tw
+  - dinopoloclub.com
   - dinotube.com
   - dippam.ac.uk
   - dirac.ac.uk
@@ -15746,6 +15747,7 @@ domain_suffix_set:
   - mobileview.page
   - mobilevrxxx.com
   - mobilitymoodplace.ac.uk
+  - mobimon.com.tw
   - mobmyanmar.com
   - mochajs.org
   - mocloudplus.com
@@ -16991,6 +16993,9 @@ domain_suffix_set:
   - nikezoom.com
   - nikkan-gendai.com
   - nikkansports.com
+  - nikke-de.com
+  - nikke-fr.com
+  - nikke-sea.com
   - nikkei-cnbc.co.jp
   - nikkei.co.jp
   - nikkei.jp
@@ -17183,6 +17188,7 @@ domain_suffix_set:
   - nowe.hk
   - nowjav.com
   - nox.ac.uk
+  - noxygames.com
   - nozomi.la
   - npcrdc.ac.uk
   - nphcardiac-research.ac.uk
@@ -19467,6 +19473,8 @@ domain_suffix_set:
   - ravm.tv
   - rawgithub.com
   - raxcdn.com
+  - rayark.download
+  - rayark.net
   - razer.com
   - razerofficial.com
   - razersupport.com
@@ -20945,6 +20953,8 @@ domain_suffix_set:
   - signalusers.org
   - sigops.org
   - sigopt.com
+  - sih-db.com
+  - sih.app
   - sihe.ac.uk
   - sikh-uni.ac.uk
   - sikiswap.com
