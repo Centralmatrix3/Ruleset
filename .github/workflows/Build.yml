@@ -21,7 +21,7 @@ jobs:
           repository: blackmatrix7/ios_rule_script
           path: ios_rule_script
 
-      - name: Prepare Rule
+      - name: Process Rule
         run: |
           python Build.py Source
 
@@ -41,7 +41,7 @@ jobs:
             sing-box rule-set compile "$file" -o "${file%.json}.srs"
           done
 
-      - name: Content Push
+      - name: Process Push
         run: |
           if [[ -n $(git status -s) ]]; then
             git config --local user.email "${{ github.actor }}@users.noreply.github.com"
