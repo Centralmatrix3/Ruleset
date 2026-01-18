@@ -107,7 +107,7 @@ def convert_singbox(file_path: Path):
         f.write(f"https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/{relative_srs.as_posix()}")
 
 def main():
-    parser = argparse.ArgumentParser("规则构建脚本")
+    parser = argparse.ArgumentParser("Rule Convert Svript")
     parser.add_argument("platform", choices=["Source", "Egern", "Singbox"])
     parser.add_argument("file_path", nargs="?", type=Path)
     args = parser.parse_args()
