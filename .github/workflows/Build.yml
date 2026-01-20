@@ -21,11 +21,11 @@ jobs:
           repository: blackmatrix7/ios_rule_script
           path: ios_rule_script
 
-      - name: Process Rule
+      - name: Loading Rule
         run: |
           python Build.py Source
 
-      - name: Convert Rule
+      - name: Process Rule
         run: |
           python Build.py Egern Egern
           python Build.py Singbox Singbox
@@ -41,7 +41,7 @@ jobs:
             sing-box rule-set compile "$file" -o "${file%.json}.srs"
           done
 
-      - name: Commit Push
+      - name: Process Push
         run: |
           if [[ -n $(git status -s) ]]; then
             git config --local user.email "${{ github.actor }}@users.noreply.github.com"
