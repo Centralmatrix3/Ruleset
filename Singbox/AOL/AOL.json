@@ -1,0 +1,13 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "aol.ca",
+        "aol.co.uk",
+        "aol.com",
+        "aolnews.com"
+      ]
+    }
+  ]
+}

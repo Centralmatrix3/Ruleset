@@ -1,0 +1,15 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+        "litvfreemobile-hichannel.cdn.hinet.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "litv.tv"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+# 规则名称: Bahamut
+# 规则统计: 7
+
+domain_set:
+  - bahamut.akamaized.net
+domain_suffix_set:
+  - bahamut.com.tw
+  - digicert.com
+  - gamer.com.tw
+  - gvt1.com
+  - hinet.net
+  - viblast.com
