@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+        "guzzoni.apple.com"
+      ]
+    }
+  ]
+}
