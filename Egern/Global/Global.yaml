@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 34037
+# 规则统计: 34130
 
 no_resolve: true
 domain_set:
@@ -1879,6 +1879,8 @@ domain_suffix_set:
   - anthropic.com
   - anthropology.ac.uk
   - anticipate.ac.uk
+  - antiphishing.nl
+  - antiphishing.ru
   - antiquity.ac.uk
   - antislavery.ac.uk
   - antislaverylaw.ac.uk
@@ -2882,6 +2884,7 @@ domain_suffix_set:
   - azattyk.org
   - azattyq.org
   - azatutyun.am
+  - azbukainterneta.ru
   - aziani.com
   - aznude.com
   - azubu.tv
@@ -2926,6 +2929,7 @@ domain_suffix_set:
   - b-ok.asia
   - b-ok.global
   - b-ok.org
+  - b2c-digest.ru
   - b3boos.com
   - b6b33.com
   - b6fc.ac.uk
@@ -2999,6 +3003,7 @@ domain_suffix_set:
   - bams.ac.uk
   - bamtoki.com
   - banan.tv
+  - bananacall.ru
   - banatal3arab.com
   - banatfun.com
   - banbury-bicester.ac.uk
@@ -3446,6 +3451,8 @@ domain_suffix_set:
   - beeline.tv
   - beep.ac.uk
   - bees.ac.uk
+  - beesbfl.ru
+  - beescrm.ru
   - beforeigners.com
   - befuck.com
   - befuck.net
@@ -3719,6 +3726,7 @@ domain_suffix_set:
   - bimlibrary.com
   - bimm.ac.uk
   - bimmstudents.ac.uk
+  - bimsaas.ru
   - bimseeker.com
   - bimsource.com
   - bimworld.com
@@ -5035,6 +5043,7 @@ domain_suffix_set:
   - calgonit.com
   - calibre-ebook.com
   - callabitch.org
+  - callbackkiller.com
   - callersbane.com
   - callhulu.com
   - calls.ac.uk
@@ -5321,6 +5330,7 @@ domain_suffix_set:
   - cbbank.com.mm
   - cbcdc.ac.uk
   - cbi.ir
+  - cbkiller.com
   - cbm.com.mm
   - cbn.com.br
   - cbpar.ac.uk
@@ -5506,6 +5516,8 @@ domain_suffix_set:
   - ceri.ac.uk
   - cerlim.ac.uk
   - cern.ch
+  - cert-gib.com
+  - cert-gib.ru
   - certificat2.com
   - certinomis.com
   - certinomis.fr
@@ -6574,6 +6586,7 @@ domain_suffix_set:
   - cyber-bay.info
   - cyber-bay.org
   - cyber-college.ac.uk
+  - cybercrimecon.com
   - cybermondaybeats4sale.com
   - cybersecurity-cdt.ac.uk
   - cybersecuritycdt.ac.uk
@@ -7132,6 +7145,7 @@ domain_suffix_set:
   - digitalhub.com
   - digitalid.ch
   - digitallifespan.ac.uk
+  - digitalocean-ui.com
   - digitalocean.com
   - digitaloceanspaces.com
   - digitalpack.com
@@ -8259,6 +8273,9 @@ domain_suffix_set:
   - elgaronline.com
   - elib.ac.uk
   - elifesciences.org
+  - eligens.cl
+  - eligens.com.br
+  - eligens.io
   - elihe.ac.uk
   - elite.ac.uk
   - elite.com
@@ -8432,6 +8449,15 @@ domain_suffix_set:
   - envatousercontent.com
   - enveast.ac.uk
   - environment-health.ac.uk
+  - envybox.company
+  - envybox.family
+  - envybox.io
+  - envybox.kg
+  - envybox.su
+  - envycdp.com
+  - envycdp.ru
+  - envycrm.com
+  - envyday.ru
   - eotarchive.org
   - epa.gov.tw
   - epc.ac.uk
@@ -8783,6 +8809,9 @@ domain_suffix_set:
   - f-droid.com
   - f-secure.com
   - f5pf.com
+  - f6.dev
+  - f6.ru
+  - f6.security
   - f6988.com
   - f95zone.to
   - fa.gov.tw
@@ -8805,6 +8834,8 @@ domain_suffix_set:
   - facboox.com
   - faccebook.com
   - faccebookk.com
+  - facct.email
+  - facct.ru
   - facdbook.com
   - facdebook.com
   - face-book.com
@@ -10002,6 +10033,7 @@ domain_suffix_set:
   - futuhkapp.com
   - futuholdings.com
   - futunited.com
+  - future-cs.ru
   - future-media.ac.uk
   - future-reserves-research.ac.uk
   - futurearmedforces.ac.uk
@@ -10025,6 +10057,10 @@ domain_suffix_set:
   - fxporn.net
   - fzdm.com
   - fzdshare.net
+  - g-ib.ae
+  - g-ib.ru
+  - g-ib.sg
+  - g-ib.us
   - g-technology.com
   - g-tun.com
   - g-tvapp.com
@@ -10236,6 +10272,7 @@ domain_suffix_set:
   - genesis.ac.uk
   - genesys.ac.uk
   - genet.ac.uk
+  - genetic-technologies.am
   - geneticconstructor.com
   - geng8cn.xyz
   - gengba-av.mom
@@ -10244,6 +10281,11 @@ domain_suffix_set:
   - genkai-hounyo.com
   - genomeanalysiscentre.ac.uk
   - genomicsnetwork.ac.uk
+  - genotek.am
+  - genotek.es
+  - genotek.eu
+  - genotek.health
+  - genotek.ru
   - genshin-porn.com
   - genshinh.com
   - gentoo.org
@@ -10339,6 +10381,10 @@ domain_suffix_set:
   - ghostgames.com
   - ghtv666.top
   - giantessbooru.com
+  - gib-global.com
+  - gib.sg
+  - gibdev.net
+  - gibtds.ru
   - gid.ru
   - giffgaff.com
   - giffgaff.design
@@ -11024,7 +11070,18 @@ domain_suffix_set:
   - grimsbytec.ac.uk
   - grooby.com
   - groq.com
+  - group-ib.ae
+  - group-ib.co.uk
+  - group-ib.com
+  - group-ib.de
+  - group-ib.eu
+  - group-ib.ru
+  - group-ib.sg
+  - group-ib.us
   - groupfun.com
+  - groupib.ae
+  - groupib.sg
+  - groupib.us
   - groups.com
   - grows.ac.uk
   - grpeng.ac.uk
@@ -12462,6 +12519,9 @@ domain_suffix_set:
   - ideal-teens.com
   - idealse.ac.uk
   - ideapocket.com
+  - ideco.dev
+  - ideco.ru
+  - idecosoftware.ru
   - idelreal.org
   - identrust.co.uk
   - identrust.com
@@ -12848,6 +12908,7 @@ domain_suffix_set:
   - innovation.ac.uk
   - innovations-i.com
   - innovations.ac.uk
+  - inplat.ru
   - inporn.com
   - inquirer.net
   - inquisitionspostmortem.ac.uk
@@ -14136,6 +14197,7 @@ domain_suffix_set:
   - kijjiji.ca
   - kikdirty.com
   - killcovid2021.com
+  - killercb.ru
   - kilmarnock.ac.uk
   - kilmeadeandfriends.com
   - kimchi.tv
@@ -14195,6 +14257,7 @@ domain_suffix_set:
   - kinkypeepz.com
   - kinopoisk.ru
   - kinorium.com
+  - kion.ru
   - kir2kos.net
   - kirbysepicyarn.com
   - kirbysuperstarultra.com
@@ -15637,6 +15700,9 @@ domain_suffix_set:
   - meetyourdevices.com
   - megacamz.com
   - megafilmporno.com
+  - megafon.com
+  - megafon.ru
+  - megafonpro.ru
   - megahdporno.net
   - megamarket.ru
   - megamarket.tech
@@ -15727,6 +15793,7 @@ domain_suffix_set:
   - mfk-t-finance.ru
   - mfmf.club
   - mfo.ac.uk
+  - mgfn.ru
   - mgo-images.com
   - mgo.com
   - mgsdtp.ac.uk
@@ -16455,6 +16522,7 @@ domain_suffix_set:
   - moozporn.com
   - moray.ac.uk
   - morazzia.com
+  - more.tv
   - moredun.ac.uk
   - moreheadphones.com
   - morewithautodesk.com
@@ -16600,7 +16668,11 @@ domain_suffix_set:
   - mtao.fun
   - mtec.ac.uk
   - mti.ac.uk
+  - mts-ws.net
+  - mts.ru
+  - mtsbank.ru
   - mtsdengi.ru
+  - mtsmedia.ru
   - mtt.org
   - mtvnservices.com
   - mu6bce1c.xyz
@@ -16735,6 +16807,7 @@ domain_suffix_set:
   - mydirtyhobby.com
   - myds.me
   - myebay.com
+  - myenvy.ru
   - myeplg.ac.uk
   - myerscough.ac.uk
   - myfappening.org
@@ -16799,6 +16872,7 @@ domain_suffix_set:
   - myminisexdoll.com
   - myminiso.com
   - mymmode.com
+  - mymts.ru
   - mymusclevideo.com
   - mynavi.jp
   - mynescol.ac.uk
@@ -18210,6 +18284,7 @@ domain_suffix_set:
   - omscr.com
   - omsiirc.ac.uk
   - omy.sg
+  - on-media.ru
   - on.here
   - onahodouga.com
   - onamae-desktop.com
@@ -20061,6 +20136,7 @@ domain_suffix_set:
   - quipelements.com
   - quixel.com
   - quixel.se
+  - quizlink.ru
   - qumingwz.com
   - qumrancavesdispersed.ac.uk
   - quotable.com
@@ -20423,6 +20499,7 @@ domain_suffix_set:
   - renzhe.cloud
   - repe21.com
   - repo.new
+  - report-megafon.ru
   - repositorynet.ac.uk
   - repotama.com
   - repsils.no
@@ -20458,6 +20535,7 @@ domain_suffix_set:
   - restnproducts.ru
   - restore.ac.uk
   - restream-media.net
+  - restream.ru
   - results.ac.uk
   - rethink.net
   - retimer.com
@@ -20640,6 +20718,7 @@ domain_suffix_set:
   - roshy.tv
   - roslin.ac.uk
   - rostaxi.org
+  - rostelecom.ru
   - rothamsted.ac.uk
   - rotherham-coll.ac.uk
   - rotherham.ac.uk
@@ -20721,6 +20800,7 @@ domain_suffix_set:
   - rspao.com
   - rstatic.net
   - rt.com
+  - rt.ru
   - rtbcdn.ru
   - rtings.com
   - ru-moscow-1.myhuaweicloud.com
@@ -20810,6 +20890,7 @@ domain_suffix_set:
   - sa-saopaulo.tencentcos.com
   - sa.com
   - sa.hao123.com
+  - saas-support.com
   - saasexch.cc
   - saasexch.co
   - saasexch.com
@@ -21019,6 +21100,7 @@ domain_suffix_set:
   - scarboroughuniversitycampus.ac.uk
   - scarboroughuniversitycentre.ac.uk
   - scarboroughuniversitycollege.ac.uk
+  - scartel.ru
   - scat-enema.com
   - scat-japan.com
   - scat-shop.net
@@ -22993,6 +23075,7 @@ domain_suffix_set:
   - t-technologies.ru
   - t-tolk.ru
   - t.finance
+  - t2.ru
   - tablet-academy.ac.uk
   - tabooporn.tv
   - tabooporns.com
@@ -23171,6 +23254,7 @@ domain_suffix_set:
   - tehnodom.com
   - tejaratbank.ir
   - tel.ac.uk
+  - tele2.ru
   - telebay.com
   - telega.info
   - telega.me
@@ -23968,6 +24052,7 @@ domain_suffix_set:
   - tvmedia.net.au
   - tvnaviweb.jp
   - tvof.ac.uk
+  - tvoyodbo.online
   - tvpromise.com
   - tvu.ac.uk
   - tw.hao123.com
@@ -25682,6 +25767,7 @@ domain_suffix_set:
   - whiterose-mechanisticbiology-dtp.ac.uk
   - whiterose-social-science-doctoral-training-centre.ac.uk
   - whiterose.ac.uk
+  - whitesaas.com
   - whitexxxtube.com
   - who.int
   - wholecitiesfoundation.org
@@ -25827,6 +25913,7 @@ domain_suffix_set:
   - windy.com
   - winhec.com
   - winhec.net
+  - wink.am
   - wink.ru
   - winncop.ac.uk
   - winningstudents-scotland.ac.uk
@@ -26238,14 +26325,18 @@ domain_suffix_set:
   - xn--74q434dwff.com
   - xn--74q434dwff.net
   - xn--7hv594h.com
+  - xn--80a9a4b.xn--p1ai
   - xn--80aaazx1an0a.lol
   - xn--80aafgovrgbc7am.xn--p1ai
   - xn--80acbjgmges7ca.xn--p1ai
   - xn--80acbjgsdq2cl.xn--p1ai
+  - xn--80aj3b.xn--p1ai
   - xn--80aqcf7a6do.com
+  - xn--80arpq.xn--p1ai
   - xn--80asgb.xn--p1ai
   - xn--8uq428d76d.tokyo
   - xn--90ab.com
+  - xn--90absjljw3g.xn--p1ai
   - xn--90aifd0az.shop
   - xn--90aifd0azb.xn--p1acf
   - xn--9kr7l.com
@@ -26866,6 +26957,8 @@ domain_suffix_set:
   - yostar-pictures.co.jp
   - yostar.co.jp
   - yostarplat.com
+  - yota.ru
+  - yotagamer.ru
   - youassporn.com
   - youav.com
   - youflix.is
