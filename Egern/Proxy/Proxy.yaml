@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6763
+# 规则统计: 6764
 
 no_resolve: true
 domain_set:
@@ -5835,6 +5835,7 @@ domain_suffix_set:
   - ultravpn.fr
   - ultraxs.com
   - ulyssesapp.com
+  - umap.openstreetmap.fr
   - umich.edu
   - unblock-us.com
   - unblockdmm.com

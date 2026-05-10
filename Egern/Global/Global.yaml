@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 34160
+# 规则统计: 34162
 
 no_resolve: true
 domain_set:
@@ -25232,6 +25232,7 @@ domain_suffix_set:
   - vodafone.com.tr
   - vodafone.de
   - vodafone.it
+  - vodafone.nl
   - voila.ac.uk
   - vokevr.com
   - vol.moe
@@ -33214,6 +33215,7 @@ domain_suffix_set:
   - ultravpn.fr
   - ultraxs.com
   - ulyssesapp.com
+  - umap.openstreetmap.fr
   - umich.edu
   - unblock-us.com
   - unblockdmm.com
