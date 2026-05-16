@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6766
+# 规则统计: 6767
 
 no_resolve: true
 domain_set:
@@ -1087,6 +1087,7 @@ domain_suffix_set:
   - chinman.net
   - chithu.org
   - chobit.cc
+  - chonglangtv.org
   - chosun.com
   - chrdnet.com
   - christianfreedom.org

@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 34266
+# 规则统计: 34268
 
 no_resolve: true
 domain_set:
@@ -14397,6 +14397,7 @@ domain_suffix_set:
   - kumagai.com
   - kumapon.jp
   - kumo.com
+  - kun66.xyz
   - kundun1069.com
   - kuper.ru
   - kusugurizanmai.com
@@ -28603,6 +28604,7 @@ domain_suffix_set:
   - chinman.net
   - chithu.org
   - chobit.cc
+  - chonglangtv.org
   - chosun.com
   - chrdnet.com
   - christianfreedom.org
