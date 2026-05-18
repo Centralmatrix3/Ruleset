@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 34268
+# 规则统计: 34272
 
 no_resolve: true
 domain_set:
@@ -2335,6 +2335,7 @@ domain_suffix_set:
   - archivx.to
   - archlinux.de
   - archlinux.org
+  - archlinux.page
   - archlinuxarm.org
   - archlinuxcn.org
   - archway.ac.uk
@@ -20663,6 +20664,7 @@ domain_suffix_set:
   - riding.ac.uk
   - right-2.ac.uk
   - rightster.com
+  - rigums.xyz
   - rimg.com.tw
   - rin.ac.uk
   - rinvdh7.xyz
@@ -21685,6 +21687,7 @@ domain_suffix_set:
   - sgsss.ac.uk
   - sgul.ac.uk
   - sh-xuxingda.com
+  - sh83.xyz
   - shadbase.com
   - shadowcomplex.com
   - shadowslaves.com
@@ -25560,6 +25563,7 @@ domain_suffix_set:
   - vuasanhrong.com
   - vulgarx.com
   - vuvuzela.io
+  - vv1865.com
   - vxnbbrs.xyz
   - vxxsred.xyz
   - w-mt.co
