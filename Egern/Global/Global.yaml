@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 34272
+# 规则统计: 34293
 
 no_resolve: true
 domain_set:
@@ -498,6 +498,7 @@ domain_suffix_set:
   - 55dndn.com
   - 567321.online
   - 568xe.com
+  - 573.jp
   - 58avgo.com
   - 592r.com
   - 59mvmv.com
@@ -14207,6 +14208,7 @@ domain_suffix_set:
   - keytransparency.foo
   - keytransparency.org
   - kfs.io
+  - kgisystems.com
   - kgslb.com
   - kgv.ac.uk
   - khanacademy.org
@@ -14310,6 +14312,7 @@ domain_suffix_set:
   - kissjav.li
   - kitakyushubank.co.jp
   - kitts.ac.uk
+  - kiwi.jp
   - kiwibrowser.com
   - kiyobank.co.jp
   - kk.stream
@@ -14349,6 +14352,19 @@ domain_suffix_set:
   - kompoz2.com
   - konachan.net
   - konachan.wjcodes.com
+  - konami-igaming.online
+  - konami.co.jp
+  - konami.com
+  - konami.net
+  - konami.org
+  - konamicrossmedia.com
+  - konamigaming.com
+  - konamigaming.net
+  - konamigaming.online
+  - konamionline.com
+  - konamiopen.jp
+  - konamisportsclub.jp
+  - konamistyle.jp
   - kopfhorergunstigshop.com
   - korbit.co.kr
   - koreanpornmovie.com
@@ -20593,6 +20609,8 @@ domain_suffix_set:
   - researchkit.tv
   - researchscotland.ac.uk
   - researchwales.ac.uk
+  - resella.jp
+  - resellablue.com
   - resilient-decarbonised-energy-cdt.ac.uk
   - resilient-decarbonised-energy-dtc.ac.uk
   - resl.ac.uk
@@ -27372,6 +27390,7 @@ domain_suffix_set:
   - ysx-mm.com
   - yuenuge113.xyz
   - yuenuge18.cc
+  - yugioh-card.com
   - yunlaopo.cc
   - yunlaopo.com
   - yunlaopo.net
@@ -32382,6 +32401,7 @@ domain_suffix_set:
   - siddharthasintent.org
   - sidelinesnews.com
   - sidelinessportseatery.com
+  - sider.ai
   - sierrafriendsoftibet.org
   - signal.org
   - sijihuisuo.club
@@ -34068,6 +34088,7 @@ domain_suffix_set:
   - zhanbin.net
   - zhangboli.net
   - zhangtianliang.com
+  - zhangzhehan.net
   - zhanlve.org
   - zhenghui.org
   - zhenlibu.info
