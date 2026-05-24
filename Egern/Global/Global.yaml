@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 34304
+# 规则统计: 34307
 
 no_resolve: true
 domain_set:
@@ -27644,6 +27644,7 @@ domain_suffix_set:
   - 228.net.tw
   - 233abc.com
   - 233v2.com
+  - 24hbook.com
   - 24hrs.ca
   - 24smile.org
   - 25u.com
@@ -30964,6 +30965,7 @@ domain_suffix_set:
   - marxist.com
   - marxist.net
   - marxists.org
+  - mas.to
   - mash.to
   - mashable.com
   - maskedip.com
@@ -31346,6 +31348,7 @@ domain_suffix_set:
   - ned.org
   - nekoslovakia.net
   - neo-miracle.com
+  - neodb.social
   - neoforged.net
   - neowin.net
   - nephobox.com
