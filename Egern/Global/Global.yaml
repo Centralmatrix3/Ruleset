@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 34307
+# 规则统计: 34309
 
 no_resolve: true
 domain_set:
@@ -7878,6 +7878,7 @@ domain_suffix_set:
   - e-tugra.com
   - e3an.ac.uk
   - e5.sk
+  - e53w.com
   - ea-anz-press.com
   - ea.com
   - eaaccess.com
@@ -20098,6 +20099,7 @@ domain_suffix_set:
   - qbmengmei6.mom
   - qbsc.ac.uk
   - qckprn.com
+  - qcmod.xyz
   - qcomgeo2.com
   - qctconnect.com
   - qdiehzz7.me
