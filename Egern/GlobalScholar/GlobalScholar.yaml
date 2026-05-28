@@ -1,5 +1,5 @@
 # 规则名称: GlobalScholar
-# 规则统计: 229
+# 规则统计: 230
 
 domain_set:
   - scholar.google.com
@@ -142,6 +142,7 @@ domain_suffix_set:
   - oecd-ilibrary.org
   - oed.com
   - omscr.com
+  - optica.org
   - osapublishing.org
   - oup.com
   - ouplaw.com

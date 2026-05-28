@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6778
+# 规则统计: 6779
 
 no_resolve: true
 domain_set:
@@ -3669,6 +3669,7 @@ domain_suffix_set:
   - movements.org
   - moves-export.com
   - moviefap.com
+  - mozilla.ai
   - mozilla.org
   - moztw.org
   - mp3buscador.com

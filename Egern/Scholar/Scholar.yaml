@@ -1,5 +1,5 @@
 # 规则名称: Scholar
-# 规则统计: 230
+# 规则统计: 231
 
 domain_set:
   - scholar.google.com
@@ -143,6 +143,7 @@ domain_suffix_set:
   - oecd-ilibrary.org
   - oed.com
   - omscr.com
+  - optica.org
   - osapublishing.org
   - oup.com
   - ouplaw.com

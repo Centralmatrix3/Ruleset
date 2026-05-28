@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 34309
+# 规则统计: 34310
 
 no_resolve: true
 domain_set:
@@ -15997,6 +15997,7 @@ domain_suffix_set:
   - midentsolutions.com
   - midfife.ac.uk
   - midhurst.ac.uk
+  - midjourney.com
   - midkent.ac.uk
   - midlands3cities.ac.uk
   - midlands4cities.ac.uk
@@ -16642,7 +16643,6 @@ domain_suffix_set:
   - moxing.news
   - moystoys.com
   - mozgcp.net
-  - mozilla.ai
   - mozilla.com
   - mozilla.community
   - mozilla.net
@@ -31196,6 +31196,7 @@ domain_suffix_set:
   - movements.org
   - moves-export.com
   - moviefap.com
+  - mozilla.ai
   - mozilla.org
   - moztw.org
   - mp3buscador.com
