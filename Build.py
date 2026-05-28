@@ -128,7 +128,7 @@ def main():
         sys.exit(f"{args.file_path} Not Found or Unknown Type.")
     convert_function = {
         "Egern": convert_egern,
-        "Singbox": convert_singbox,
+        "Singbox": convert_singbox
     }[args.platform]
     process_file = (
         [args.file_path]
