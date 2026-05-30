@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6779
+# 规则统计: 6780
 
 no_resolve: true
 domain_set:
@@ -1538,6 +1538,7 @@ domain_suffix_set:
   - doujincafe.com
   - dowei.org
   - dowjones.com
+  - dowjones.io
   - download.dappcdn.com
   - dphk.org
   - dpool.top
