@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 34344
+# 规则统计: 34348
 
 no_resolve: true
 domain_set:
@@ -3035,7 +3035,6 @@ domain_suffix_set:
   - bangkokstreetwhores.com
   - bangor-university-london.ac.uk
   - bangor.ac.uk
-  - bangumi.tv
   - bangyourwife.com
   - bank-arzamas.ru
   - bank-credit-suisse-moscow.ru
@@ -3629,7 +3628,6 @@ domain_suffix_set:
   - bftv.ac.uk
   - bgc.ac.uk
   - bgicdn.com
-  - bgm.tv
   - bgov.com
   - bgr.in
   - bgs.ac.uk
@@ -5712,7 +5710,6 @@ domain_suffix_set:
   - chid.com.mm
   - chigroup.ac.uk
   - chihair-straightener.com
-  - chii.in
   - chikiporn.com
   - chikubank.co.jp
   - chilbolton.ac.uk
@@ -11762,7 +11759,6 @@ domain_suffix_set:
   - hibiki-cast.jp
   - hiddenhistorieswwi.ac.uk
   - hiddenvoyeurspy.com
-  - hiddify.com
   - hidefporn.ws
   - hidive.com
   - hifacebook.info
@@ -14873,6 +14869,7 @@ domain_suffix_set:
   - livinglegacies1914-18.ac.uk
   - livingwithmachines.ac.uk
   - livingyourambition.com
+  - livinno.org
   - livjm.ac.uk
   - livrariart.com.br
   - lizardporn.com
@@ -18473,6 +18470,7 @@ domain_suffix_set:
   - ootbstudio.co.kr
   - op.gg
   - op7979.com
+  - opac-project.eu
   - opdems.ac.uk
   - open.ac.uk
   - openamt.com
@@ -28041,6 +28039,7 @@ domain_suffix_set:
   - arunachalforests.gov.in
   - arvanstorage.ir
   - arweave.org
+  - as.mr
   - asacp.org
   - asdfg.jp
   - asg.to
@@ -28139,6 +28138,7 @@ domain_suffix_set:
   - bangdream.space
   - bangkokpost.com
   - bangumi.moe
+  - bangumi.tv
   - bangyoulater.com
   - bankmobilevibe.com
   - bannednews.org
@@ -28222,6 +28222,7 @@ domain_suffix_set:
   - beyondfirewall.com
   - bfnn.org
   - bfsh.hk
+  - bgm.tv
   - bgme.me
   - bgvpn.com
   - bianlei.com
@@ -28595,6 +28596,7 @@ domain_suffix_set:
   - cherrysave.com
   - chhongbi.org
   - chicagoncmtv.com
+  - chii.in
   - china-mmm.net
   - china-review.com.ua
   - china-week.com
@@ -28761,7 +28763,6 @@ domain_suffix_set:
   - cn6.eu
   - cna.com.tw
   - cnabc.com
-  - cnbc.com
   - cnbeta.com.tw
   - cnd.org
   - cnet.com
@@ -29758,6 +29759,7 @@ domain_suffix_set:
   - geekheart.info
   - gekikame.com
   - gelbooru.com
+  - gencraft.com
   - generated.photos
   - geni.us
   - genius.com
@@ -30081,6 +30083,7 @@ domain_suffix_set:
   - hicairo.com
   - hiccears.com
   - hidden-advent.org
+  - hiddify.com
   - hide.me
   - hidecloud.com
   - hidein.net
@@ -33517,6 +33520,7 @@ domain_suffix_set:
   - vbstatic.co
   - vcf-online.org
   - vcfbuilder.org
+  - veed.io
   - vegasred.com
   - velkaepocha.sk
   - venbbs.com

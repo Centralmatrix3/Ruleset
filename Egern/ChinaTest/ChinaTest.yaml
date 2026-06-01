@@ -1,5 +1,5 @@
 # 规则名称: ChinaTest
-# 规则统计: 113226
+# 规则统计: 113225
 
 no_resolve: true
 domain_set:
@@ -16552,7 +16552,6 @@ domain_suffix_set:
   - aryasec.com
   - as-doll.com
   - as-hitech.com
-  - as.mr
   - as16.com
   - as3f.com
   - as5.com
