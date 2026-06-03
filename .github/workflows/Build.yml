@@ -13,10 +13,10 @@ jobs:
       SINGBOX_VERSION: "1.13.8"
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v6.0.3
 
       - name: Checkout Repository
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v6.0.3
         with:
           repository: blackmatrix7/ios_rule_script
           path: ios_rule_script
