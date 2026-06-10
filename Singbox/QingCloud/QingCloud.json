@@ -1,0 +1,21 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "anybox.com",
+        "frontwize.com",
+        "kubesphere.com.cn",
+        "qingcache.com",
+        "qingcloud.cn",
+        "qingcloud.com",
+        "qingcloud.com.cn",
+        "qingstor.com",
+        "qingstorage.com",
+        "quanxiangyun.com",
+        "routewize.com",
+        "yunify.com"
+      ]
+    }
+  ]
+}

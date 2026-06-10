@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+        "uplaypc-s-ubisoft.cdn.ubi.com"
+      ]
+    }
+  ]
+}
