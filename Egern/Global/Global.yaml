@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 34629
+# 规则统计: 34676
 
 no_resolve: true
 domain_set:
@@ -121,6 +121,8 @@ domain_set:
   - ws.audioscrobbler.com
   - www-cdn.icloud.com.akadns.net
   - yangzhi.app
+  - zftksc.cdn-settings.appsflyersdk.com
+  - zftksc.launches.appsflyersdk.com
   - ztedevices.com
   - api.waqi.info
   - aqi.aqicn.org
@@ -3092,6 +3094,7 @@ domain_suffix_set:
   - barton-peveril.ac.uk
   - barton.ac.uk
   - bas.ac.uk
+  - base.org
   - baselinestudy.com
   - baselinestudy.org
   - basford-hall.ac.uk
@@ -3855,6 +3858,7 @@ domain_suffix_set:
   - bite.ac.uk
   - bitflyer.com
   - bitflyer.jp
+  - bitlayer.org
   - bitly.com
   - bitly.is
   - bitnami.com
@@ -3898,6 +3902,7 @@ domain_suffix_set:
   - blacktowhite.net
   - blake.ac.uk
   - blaoshi.cc
+  - blast.io
   - blazor.net
   - blc.ac.uk
   - ble.ac.uk
@@ -4461,12 +4466,15 @@ domain_suffix_set:
   - bmwusfactory.com
   - bmwusrideracademy.com
   - bmwvalueservice.com
+  - bmwweb.solutions
   - bmwwholesaleconnect.com
   - bmwworld.com
   - bmwworld.net
   - bmwworld.tv
   - bmwzentrum.com
   - bnac.ac.uk
+  - bnappweb.black
+  - bnbchain.org
   - bnef.com
   - bntrace.com
   - bnu.ac.uk
@@ -4811,6 +4819,7 @@ domain_suffix_set:
   - bs-adreview.com
   - bs-awh.ne.jp
   - bsa.ac.uk
+  - bsappapi.cc
   - bsappapi.com
   - bsaw.ac.uk
   - bsbec.ac.uk
@@ -5594,6 +5603,7 @@ domain_suffix_set:
   - cglas.ac.uk
   - ch9.ms
   - chace.ac.uk
+  - chainid.network
   - championshipseriesleague.com
   - changing-arctic-ocean.ac.uk
   - channel4.com
@@ -6289,6 +6299,7 @@ domain_suffix_set:
   - cordcloud.org
   - cordwainers.ac.uk
   - core.ac.uk
+  - coredao.org
   - coreduo.com
   - coreextreme.com
   - corel.com
@@ -7706,6 +7717,7 @@ domain_suffix_set:
   - dropboxpartners.com
   - dropboxstatic.com
   - dropboxusercontent.com
+  - drpc.org
   - drunk6.com
   - drunkenstepfather.com
   - drunkentop.com
@@ -9236,6 +9248,8 @@ domain_suffix_set:
   - fantasiasguatemala.com
   - fantasti.cc
   - fantasticyoungporn.com
+  - fantom.foundation
+  - fantom.network
   - fap-xxx.com
   - fap18.net
   - fap666.com
@@ -9444,6 +9458,7 @@ domain_suffix_set:
   - fgmtv.org
   - fi11av1.com
   - fi11tv1.com
+  - fiat24.com
   - fibank.bg
   - fibre-diffraction.ac.uk
   - fic.fan
@@ -9611,6 +9626,7 @@ domain_suffix_set:
   - flagrasamadores.net
   - flame.ac.uk
   - flameunleashed.com
+  - flare.network
   - flaru.com
   - flash-xxx.com
   - flashtranny.com
@@ -10127,10 +10143,15 @@ domain_suffix_set:
   - futanarihq.com
   - futhead.com
   - futpromos.com
+  - futu.cn
+  - futu.link
   - futuhk.com
+  - futuhk1.com
+  - futuhk2.com
   - futuhkapp.com
   - futuholdings.com
   - futunited.com
+  - futuoa.com
   - future-cs.ru
   - future-media.ac.uk
   - future-reserves-research.ac.uk
@@ -10145,6 +10166,7 @@ domain_suffix_set:
   - futuretrack.ac.uk
   - futurevehicles.ac.uk
   - futureworks.ac.uk
+  - futusg.com
   - fuxporn.com
   - fuzokudx.com
   - fv-distribution-database.ac.uk
@@ -13535,6 +13557,7 @@ domain_suffix_set:
   - irotv301.top
   - irribay.com
   - irscl.ac.uk
+  - isafepal.com
   - isbgpsafeyet.com
   - isc.ac.uk
   - isca-speech.org
@@ -15091,6 +15114,7 @@ domain_suffix_set:
   - londonstudiocentre.ac.uk
   - lonestarnaughtygirls.com
   - longbridge.cloud
+  - longbridge.cn
   - longbridge.com
   - longbridge.global
   - longbridge.hk
@@ -15862,6 +15886,7 @@ domain_suffix_set:
   - meetsmartbook.com
   - meetyourdevices.com
   - megacamz.com
+  - megaeth.com
   - megafilmporno.com
   - megafon.com
   - megafon.ru
@@ -15908,6 +15933,7 @@ domain_suffix_set:
   - merakigo.com
   - merc.ac.uk
   - meridian.net
+  - merkl.xyz
   - merlin.ac.uk
   - merops.ac.uk
   - merristwood.ac.uk
@@ -15950,6 +15976,7 @@ domain_suffix_set:
   - metrotoons.com
   - meu.ac.uk
   - meuhentai.com
+  - mexc.co
   - mexc.com
   - mexcsensors.com
   - mfg-inspector.com
@@ -17684,6 +17711,7 @@ domain_suffix_set:
   - nib.ac.uk
   - nibs.ac.uk
   - nibsc.ac.uk
+  - nic.ru
   - nicats.ac.uk
   - nicd.ac.uk
   - niceanimegames.com
@@ -17695,6 +17723,7 @@ domain_suffix_set:
   - nicesshop.net
   - nichepornsite.com
   - nichepornsites.com
+  - nichost.ru
   - nicis.ac.uk
   - nickscipio.com
   - nicky.xxx
@@ -17964,6 +17993,7 @@ domain_suffix_set:
   - nodeimage.com
   - nodejs.org
   - nodequality.com
+  - nodereal.io
   - nodes.ac.uk
   - nodesnoop.com
   - nodesource.com
@@ -18376,6 +18406,7 @@ domain_suffix_set:
   - oanencore.com
   - oas.ac.uk
   - oasis.ac.uk
+  - oasis.io
   - oasiscollege.ac.uk
   - oasp.ac.uk
   - oath.cloud
@@ -18557,6 +18588,7 @@ domain_suffix_set:
   - oneteamconference.com
   - onetrust.com
   - oneworldmanystories.com
+  - onfinality.io
   - onindiansex.com
   - oninstagram.com
   - onionshare.org
@@ -20410,6 +20442,7 @@ domain_suffix_set:
   - qysg8.buzz
   - qzav.tv
   - r-project.org
+  - r01.ru
   - r10s.com
   - r18.clickme.net
   - r18av.com
@@ -20723,6 +20756,9 @@ domain_suffix_set:
   - refah-bank.ir
   - reform-apple.com
   - refrain.ac.uk
+  - reg.cloud
+  - reg.com
+  - reg.ru
   - regard.ac.uk
   - regener8.ac.uk
   - regent-academy.ac.uk
@@ -21067,6 +21103,7 @@ domain_suffix_set:
   - rse.ac.uk
   - rsg.sc
   - rshb.ru
+  - rsk.co
   - rslg.ac.uk
   - rslondon.ac.uk
   - rslp.ac.uk
@@ -21232,6 +21269,7 @@ domain_suffix_set:
   - saasexch.cc
   - saasexch.co
   - saasexch.com
+  - saasexch.info
   - saasexch.io
   - sabuibo.net
   - sac.ac.uk
@@ -21247,6 +21285,7 @@ domain_suffix_set:
   - safebooru.org
   - safecampuscommunities.ac.uk
   - safeliner.tech
+  - safepal.com
   - safepodnetwork.ac.uk
   - saffrontech.com
   - sagabank.co.jp
@@ -22287,6 +22326,7 @@ domain_suffix_set:
   - skysports.ie
   - skysportsonline.com
   - skysportsracing.com
+  - skytigris.cn
   - sl99mod.buzz
   - slack-core.com
   - slack-files.com
@@ -22470,6 +22510,7 @@ domain_suffix_set:
   - solentmarineacademy.ac.uk
   - solentuniversity.ac.uk
   - solid.ru
+  - solidifi.app
   - solihull.ac.uk
   - solihullsfc.ac.uk
   - solostudioksale.com
@@ -22982,6 +23023,7 @@ domain_suffix_set:
   - stdavidsdaygroup.ac.uk
   - stdoms.ac.uk
   - stealthex.io
+  - steamconnecttest.com
   - stec.ac.uk
   - steelbrick.com
   - steemitwallet.com
@@ -23313,6 +23355,7 @@ domain_suffix_set:
   - swc.ac.uk
   - swdtc.ac.uk
   - swdtp.ac.uk
+  - sweb.ru
   - sweep.ac.uk
   - sweetadult-tube.com
   - sweetandmaxwell.co.uk
@@ -23447,6 +23490,7 @@ domain_suffix_set:
   - tagbank.ru
   - tags.ac.uk
   - taiav.com
+  - taiko.xyz
   - tail-f.com
   - tailf.com
   - tailscale.com
@@ -23904,6 +23948,7 @@ domain_suffix_set:
   - thinkwales.ac.uk
   - thinkwithgoogle.com
   - thirdns.de
+  - thirdweb.com
   - thisav.org
   - thisisgame.com
   - thisismoney.co.uk
@@ -23967,6 +24012,7 @@ domain_suffix_set:
   - tiendabestbuy.com
   - tiffany-towers.com
   - tig-ol-bitties.live
+  - tigerbbs.cn
   - tiipple.ac.uk
   - tik-tokapi.com
   - tiktok-minis.com
@@ -26690,6 +26736,7 @@ domain_suffix_set:
   - xkontakt18.com
   - xkorean.cam
   - xl-gaytube.com
+  - xlayer.tech
   - xlecx.org
   - xlgirls.com
   - xlinkz.to
