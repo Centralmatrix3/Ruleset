@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 34685
+# 规则统计: 34702
 
 no_resolve: true
 domain_set:
@@ -1977,6 +1977,7 @@ domain_suffix_set:
   - appbridge.it
   - appcenter.ms
   - appcloud.com
+  - appconsent.io
   - appdomain.cloud
   - appdynamics.co.uk
   - appdynamics.com
@@ -2898,6 +2899,7 @@ domain_suffix_set:
   - awwcn.xyz
   - awxcdn.com
   - axbdoll.com.tw
+  - axept.io
   - ayabank.com
   - aylesbury.ac.uk
   - ayrcoll.ac.uk
@@ -5471,6 +5473,7 @@ domain_suffix_set:
   - cdd.ac.uk
   - cdkworkshop.com
   - cdmatech.com
+  - cdn-cookieyes.com
   - cdn-telegram.org
   - cdn-terapeak.com
   - cdn-tinkoff.ru
@@ -6257,6 +6260,7 @@ domain_suffix_set:
   - conquerwithcharacter.com
   - conscrypt.com
   - conscrypt.org
+  - consentmanager.net
   - consentpro.com
   - conservatoiresuk.ac.uk
   - consilience.ac.uk
@@ -6271,9 +6275,11 @@ domain_suffix_set:
   - contest.com
   - convrgencegame.com
   - cooer.su
+  - cookiebot.com
   - cookiechoices.org
   - cookielaw.org
   - cookiepro.com
+  - cookieyes.com
   - cool-comics.com
   - cool3c.com
   - coolinet.net
@@ -7162,6 +7168,7 @@ domain_suffix_set:
   - dexterhorn.com
   - dezyred.com
   - df-bet.com
+  - dfvpn.com
   - dgaqp.com
   - dgg.gg
   - dghe.ac.uk
@@ -10237,6 +10244,7 @@ domain_suffix_set:
   - gamesstack.com
   - gametap.com
   - gameuxmasterguide.com
+  - gamewtb.com
   - gaming-notebooks.com
   - gandhara.ru
   - ganjing.world
@@ -10737,6 +10745,7 @@ domain_suffix_set:
   - gobuildx.net
   - gobuyonlinestore.net
   - gockhuatviet.com
+  - godaddy.net
   - godalming.ac.uk
   - godbolt.org
   - goduckgo.com
@@ -22255,7 +22264,6 @@ domain_suffix_set:
   - sinica.ac.uk
   - sino-cs.ac.uk
   - sinto.ac.uk
-  - sinyalee.com
   - sip.ac.uk
   - sipher.ac.uk
   - siport.com
@@ -23575,6 +23583,7 @@ domain_suffix_set:
   - taylorandfrancis.com
   - taylorfrancis.com
   - tb-esim.ru
+  - tb.pro
   - tbank-online.com
   - tbank.ru
   - tbib.org
@@ -23711,6 +23720,7 @@ domain_suffix_set:
   - terc.ac.uk
   - terk.nl
   - termius.com
+  - termly.io
   - termux.com
   - termux.dev
   - termux.org
@@ -23999,6 +24009,7 @@ domain_suffix_set:
   - thumbnailseries.com
   - thunderbird.net
   - thunderbolttechnology.net
+  - thundermail.com
   - thurrock.ac.uk
   - thurrockcampus.ac.uk
   - thz7.net
@@ -24320,6 +24331,7 @@ domain_suffix_set:
   - trurocollege.ac.uk
   - truropenwith.ac.uk
   - trust-provider.com
+  - trustarc.com
   - trustcor.ca
   - trustcor.com
   - trustdoc.ch
@@ -26540,6 +26552,7 @@ domain_suffix_set:
   - wsc.ac.uk
   - wscinternational.ac.uk
   - wsfc.ac.uk
+  - wsimg.com
   - wsj.jobs
   - wsjbarrons.com
   - wsjmediakit.com
@@ -28118,6 +28131,7 @@ domain_suffix_set:
   - abs.edu
   - acast.com
   - accim.org
+  - accountboy.com
   - accountkit.com
   - aceros-de-hispania.com
   - acevpn.com
@@ -31548,6 +31562,7 @@ domain_suffix_set:
   - monocloud.me
   - monster.com
   - moodyz.com
+  - moomoo.com
   - moon.fm
   - moonbbs.com
   - moonbbs.info
@@ -32823,6 +32838,7 @@ domain_suffix_set:
   - sinonet.ca
   - sinopitt.info
   - sinoquebec.com
+  - sinyalee.com
   - sipml5.org
   - sis.xxx
   - sis001.com
@@ -34310,6 +34326,7 @@ domain_suffix_set:
   - xn--oiq.cc
   - xn--p8j9a0d9c9a.xn--q9jyb4c
   - xn--u2u927b.com
+  - xn--vuqv2cf7wzyig79c.com
   - xnpool.com
   - xnxx-cdn.com
   - xnxx.com
