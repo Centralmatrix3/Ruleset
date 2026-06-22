@@ -1,5 +1,5 @@
 # 规则名称: China
-# 规则统计: 3723
+# 规则统计: 3721
 
 no_resolve: true
 domain_set:
@@ -1373,8 +1373,6 @@ domain_suffix_set:
   - funnycore.com
   - funshion.com
   - funshion.net
-  - futu5.com
-  - futunn.com
   - fuwai.com
   - fuwj.com
   - fxxz.com

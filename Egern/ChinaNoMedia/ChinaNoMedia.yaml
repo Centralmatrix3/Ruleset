@@ -1,5 +1,5 @@
 # 规则名称: ChinaNoMedia
-# 规则统计: 3626
+# 规则统计: 3624
 
 no_resolve: true
 domain_set:
@@ -1335,8 +1335,6 @@ domain_suffix_set:
   - funnycore.com
   - funshion.com
   - funshion.net
-  - futu5.com
-  - futunn.com
   - fuwai.com
   - fuwj.com
   - fxxz.com
