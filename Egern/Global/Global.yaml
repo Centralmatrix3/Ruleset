@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 34752
+# 规则统计: 34754
 
 no_resolve: true
 domain_set:
@@ -10748,8 +10748,10 @@ domain_suffix_set:
   - gofit.ac.uk
   - gofucker.com
   - gofuckmenow.com
+  - gog-services.com
   - gog-statics.com
   - gog.com
+  - gogalaxy.com
   - gogeo.ac.uk
   - gogettaxi.org
   - gogle.com
