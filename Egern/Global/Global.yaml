@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 34754
+# 规则统计: 34765
 
 no_resolve: true
 domain_set:
@@ -34,7 +34,6 @@ domain_set:
   - crl.versign.net
   - databank.worldbank.org
   - datarouter.apps.netherrealm.com
-  - default.exp-tas.com
   - deutschewelle.h-cdn.com
   - dl.begellhouse.com
   - ea.tt.omtrdc.net
@@ -1532,6 +1531,7 @@ domain_suffix_set:
   - allswingersclubs.org
   - allthefallen.moe
   - alma.ac.uk
+  - almalinux.org
   - almcollege.ac.uk
   - aloe.ac.uk
   - alohatube.com
@@ -4958,6 +4958,7 @@ domain_suffix_set:
   - bustynudebabes.com
   - bustyoldsluts.com
   - bustysammieblack.com
+  - busybox.net
   - butex.ac.uk
   - buxtoncollege.ac.uk
   - buy-from-shanghai.com
@@ -8880,6 +8881,7 @@ domain_suffix_set:
   - exondomesday.ac.uk
   - exotic-ghana.com
   - exoticuganda.com
+  - exp-tas.com
   - experience-vmware.com
   - experiencebillmelater.com
   - experienceworks.ac.uk
@@ -10572,6 +10574,7 @@ domain_suffix_set:
   - gitgud.io
   - github.ai
   - github.blog
+  - github.career
   - github.com
   - github.community
   - github.dev
@@ -14866,6 +14869,7 @@ domain_suffix_set:
   - life.ac.uk
   - lifearc.ac.uk
   - lifeatkings.ac.uk
+  - lifeatspotify.com
   - lifelab.ac.uk
   - lifelonglearning.ac.uk
   - lifeselector.com
@@ -15511,6 +15515,7 @@ domain_suffix_set:
   - manhwa24h.com
   - manhwahentai.me
   - maniakey.homes
+  - manjaro.org
   - manlitphil.ac.uk
   - manorama.com
   - manoramanews.com
@@ -20999,6 +21004,7 @@ domain_suffix_set:
   - rocksextube.com
   - rockstargames.com
   - rockstarnorth.com
+  - rockylinux.org
   - roco.qq.com
   - rodbaston.ac.uk
   - roe.ac.uk
@@ -22782,6 +22788,7 @@ domain_suffix_set:
   - spotifycharts.com
   - spotifycodes.com
   - spotifyforbrands.com
+  - spotifyforvendors.com
   - spotifyjobs.com
   - spr.ac.uk
   - spraynwash.com
@@ -25883,7 +25890,10 @@ domain_suffix_set:
   - vscale.ru
   - vscode-cdn.net
   - vscode-unpkg.net
+  - vscode-webview.net
   - vscode.dev
+  - vscodeedu.app
+  - vscodeedu.com
   - vsemrabota.ru
   - vsex.in
   - vsezoo.com
@@ -30138,6 +30148,7 @@ domain_suffix_set:
   - geph.io
   - gerefoundation.org
   - get.app
+  - get.dappcdn.com
   - get.dev
   - get.how
   - get.page

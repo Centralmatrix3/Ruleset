@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6861
+# 规则统计: 6862
 
 no_resolve: true
 domain_set:
@@ -2238,6 +2238,7 @@ domain_suffix_set:
   - geph.io
   - gerefoundation.org
   - get.app
+  - get.dappcdn.com
   - get.dev
   - get.how
   - get.page
