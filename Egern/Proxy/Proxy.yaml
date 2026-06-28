@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6862
+# 规则统计: 6863
 
 no_resolve: true
 domain_set:
@@ -1272,6 +1272,7 @@ domain_suffix_set:
   - crbug.com
   - crchina.org
   - crd-net.org
+  - creader.com
   - creaders.net
   - creadersnet.com
   - creativelab5.com
