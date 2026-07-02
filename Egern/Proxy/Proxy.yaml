@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6878
+# 规则统计: 6879
 
 no_resolve: true
 domain_set:
@@ -1785,6 +1785,7 @@ domain_suffix_set:
   - experts-univers.com
   - exploader.net
   - expofutures.com
+  - expressnews.com
   - expressvpn.com
   - exrates.me
   - extmatrix.com
