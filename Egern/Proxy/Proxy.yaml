@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6879
+# 规则统计: 6880
 
 no_resolve: true
 domain_set:
@@ -6270,6 +6270,7 @@ domain_suffix_set:
   - webrush.net
   - webs-tv.net
   - websdr.org
+  - webshare.io
   - website.new
   - websitepulse.com
   - websnapr.com

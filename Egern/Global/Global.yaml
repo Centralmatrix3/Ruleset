@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 34786
+# 规则统计: 34797
 
 no_resolve: true
 domain_set:
@@ -3906,6 +3906,7 @@ domain_suffix_set:
   - blackstonespoliceservice.com
   - blacktowhite.net
   - blake.ac.uk
+  - blanc.ru
   - blaoshi.cc
   - blast.io
   - blazor.net
@@ -4587,6 +4588,7 @@ domain_suffix_set:
   - bostoncentre.ac.uk
   - boswp.com
   - botframework.com
+  - botim.me
   - botmechanic.io
   - botorch.org
   - botstop.com
@@ -6297,6 +6299,7 @@ domain_suffix_set:
   - coova.net
   - coova.org
   - copac.ac.uk
+  - copilot.com
   - copim.ac.uk
   - copior.ac.uk
   - copro.pw
@@ -12050,6 +12053,9 @@ domain_suffix_set:
   - horizontal-systems.com
   - horizontalglue.com
   - horizontalsystems.com
+  - hornet.com
+  - hornetapp.com
+  - hornetx.com
   - horniman.ac.uk
   - hornyasianmilfs.com
   - hornybitches.org
@@ -14967,6 +14973,7 @@ domain_suffix_set:
   - listerpostgraduate.ac.uk
   - listinganalytics.net
   - litbus-anime.com
+  - litecoin.org
   - literatumonline.com
   - literotica.com
   - litt.ac.uk
@@ -17521,7 +17528,9 @@ domain_suffix_set:
   - netflixtechblog.com
   - netlab.ac.uk
   - netlify.com
+  - netlifydns.com
   - netlifystatus.com
+  - netlifyusercontent.com
   - netlock.hu
   - netname.com.br
   - netpornsex.com
@@ -18168,6 +18177,7 @@ domain_suffix_set:
   - ntec.ac.uk
   - ntfs.ac.uk
   - ntidagenham.ac.uk
+  - ntl.fyi
   - ntnews.com.au
   - ntp-os01.ocn.ad.jp
   - ntp-tk01.ocn.ad.jp
@@ -34156,6 +34166,7 @@ domain_suffix_set:
   - webrush.net
   - webs-tv.net
   - websdr.org
+  - webshare.io
   - website.new
   - websitepulse.com
   - websnapr.com
