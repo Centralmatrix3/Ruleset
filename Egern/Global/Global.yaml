@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 34797
+# 规则统计: 34800
 
 no_resolve: true
 domain_set:
@@ -50,7 +50,6 @@ domain_set:
   - hub.slarker.me
   - i.jeded.com
   - imperial.insendi.com
-  - ingest.apple-studies.com
   - lgelectronics.122.2o7.net
   - linkedin.sc.omtrdc.net
   - live-patreon-marketing.pantheonsite.io
@@ -2012,6 +2011,7 @@ domain_suffix_set:
   - apple-pay.wang
   - apple-store.net
   - apple-store.wang
+  - apple-studies.com
   - apple-usa.net
   - apple.ae
   - apple.at
@@ -2541,6 +2541,7 @@ domain_suffix_set:
   - atlassian-dev.net
   - atlassian.com
   - atlassian.net
+  - atmeta.com
   - atokara.jp
   - atom.io
   - atomyze.ru
@@ -2921,6 +2922,7 @@ domain_suffix_set:
   - aziani.com
   - aznude.com
   - azubu.tv
+  - azure-api.net
   - azure-devices-int.net
   - azure-devices.net
   - azure-dns.com
@@ -2956,6 +2958,7 @@ domain_suffix_set:
   - azureserviceprofiler.com
   - azuresmartspaces.net
   - azurestackvalidation.com
+  - azurestaticapps.net
   - b-cdn.net
   - b-eroland.net
   - b-ok.africa
