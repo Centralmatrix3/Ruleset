@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 34800
+# 规则统计: 34802
 
 no_resolve: true
 domain_set:
@@ -19019,6 +19019,8 @@ domain_suffix_set:
   - paulmelloncentre.ac.uk
   - paulsimon-music.com
   - pavpal.com
+  - pawchive.pw
+  - pawchive.st
   - paxlicense.org
   - paydiant.com
   - payecom.ru
