@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 34802
+# 规则统计: 34808
 
 no_resolve: true
 domain_set:
@@ -9680,6 +9680,8 @@ domain_suffix_set:
   - flowfront.com
   - flowfront.net
   - flowtype.org
+  - flowwow-images.com
+  - flowwow.com
   - fluffychat.im
   - fluidfxapp.com
   - fluidpreview.com
@@ -10145,6 +10147,8 @@ domain_suffix_set:
   - funimation.com
   - funnyfacebook.org
   - funnyordie.com
+  - funpay.com
+  - funpay.ru
   - funshemale.com
   - fuqqt.com
   - furaffinity.net
@@ -21996,6 +22000,7 @@ domain_suffix_set:
   - sfra.ac.uk
   - sfs.ac.uk
   - sfsstudents.ac.uk
+  - sfunpay.com
   - sfx.ac.uk
   - sfxc.ac.uk
   - sg.weibo.com
@@ -24057,6 +24062,7 @@ domain_suffix_set:
   - tilda.ws
   - tildaapi.com
   - tildacdn.com
+  - tildacdn.net
   - tilehill.ac.uk
   - time-messenger.ru
   - time.gov

@@ -1,5 +1,5 @@
 # 规则名称: ChinaTest
-# 规则统计: 112127
+# 规则统计: 112129
 
 no_resolve: true
 domain_set:
@@ -91925,6 +91925,7 @@ domain_suffix_set:
   - twty.vip
   - twwtn.com
   - twyuxin.com
+  - twyxh.com
   - twyxi.com
   - twzilla.com
   - twzui6.com
@@ -111630,6 +111631,7 @@ domain_suffix_set:
   - zwzyzx.com
   - zx-tour.com
   - zx-xcx.com
+  - zx.com
   - zx0093.com
   - zx017.com
   - zx017.net
