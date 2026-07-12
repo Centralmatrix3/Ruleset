@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 34808
+# 规则统计: 34810
 
 no_resolve: true
 domain_set:
@@ -15464,6 +15464,7 @@ domain_suffix_set:
   - makearmanotwar.com
   - makebettercode.com
   - makecode.org
+  - makeeu.com
   - makeitopen.com
   - makeitrealcontest.com
   - makerepeater.jp
@@ -16516,6 +16517,7 @@ domain_suffix_set:
   - mist.ac.uk
   - mistresskym.com
   - mit.net
+  - mitao.bar
   - miteam.com
   - mitnaka.com
   - mitpressjournals.org
