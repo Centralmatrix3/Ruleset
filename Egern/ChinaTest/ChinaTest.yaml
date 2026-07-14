@@ -1,5 +1,5 @@
 # 规则名称: ChinaTest
-# 规则统计: 112060
+# 规则统计: 112070
 
 no_resolve: true
 domain_set:
@@ -13650,6 +13650,7 @@ domain_suffix_set:
   - ad77.com
   - ad778.com
   - ada-post.com
+  - adacpp.com
   - adamahf.com
   - adamcdn.com
   - adamcoder.com
@@ -27584,6 +27585,7 @@ domain_suffix_set:
   - color-measure.com
   - color365.com
   - colorbird.com
+  - colorfulclouds.com
   - colorfulclouds.net
   - colorfulltech.net
   - colorimeter.com
@@ -33483,6 +33485,7 @@ domain_suffix_set:
   - duoyi.com
   - duoying.com
   - duoyinsu.com
+  - duoyiwangluo.com
   - duoyoumi.com
   - duozhi.com
   - duozhuayu.com
@@ -41867,6 +41870,7 @@ domain_suffix_set:
   - gtetern.com
   - gtfund.com
   - gtg56.com
+  - gtgjtrip.com
   - gtgqw.com
   - gtht.com
   - gthzc.com
@@ -60147,6 +60151,7 @@ domain_suffix_set:
   - klhpw.com
   - klhuyan.com
   - klicen.com
+  - kling-ai.com
   - klingai.com
   - klingxai.com
   - klinlee.com
@@ -62399,6 +62404,7 @@ domain_suffix_set:
   - leyoo.com
   - leyoujia.com
   - leyu.com
+  - leyuansu.com
   - leyue100.com
   - leyuglobal.com
   - leyun365.com
@@ -82035,6 +82041,7 @@ domain_suffix_set:
   - shedongyun.com
   - shedoor.com
   - shedunews.com
+  - shedunews.net
   - sheec-tencentclb.cloud
   - sheec-tencentclb.com
   - sheec-tencentclb.net
@@ -99503,6 +99510,7 @@ domain_suffix_set:
   - xiaomei.cc
   - xiaomeiti.com
   - xiaomeng1235.com
+  - xiaomengai.com
   - xiaomi.hk
   - xiaomi.org
   - xiaomi.tw
@@ -103552,6 +103560,7 @@ domain_suffix_set:
   - ygct.com
   - ygdatabase.com
   - ygdl.com
+  - ygduoyi.com
   - yge.me
   - ygeer.com
   - ygei.com
@@ -110778,6 +110787,7 @@ domain_suffix_set:
   - zmsq.com
   - zmssh.com
   - zmtpc.com
+  - zmtqsh.com
   - zmtquan.com
   - zmufivehospital.com
   - zmumu.com

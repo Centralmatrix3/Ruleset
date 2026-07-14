@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 34810
+# 规则统计: 34827
 
 no_resolve: true
 domain_set:
@@ -3589,6 +3589,9 @@ domain_suffix_set:
   - bestbuytradein.com
   - bestbuyus.com
   - bestcamsites.net
+  - bestchange.com
+  - bestchange.net
+  - bestchange.ru
   - bestclouddrive.com
   - bestdori.com
   - besterpornos.com
@@ -6472,6 +6475,7 @@ domain_suffix_set:
   - crmdynint-gcc.com
   - crmdynint.com
   - crocels.ac.uk
+  - crocoblock.com
   - cromite.org
   - cronton.ac.uk
   - crontonsixthform.ac.uk
@@ -6893,6 +6897,7 @@ domain_suffix_set:
   - delcamtv.com
   - delcamuniversity.com
   - delcamusa.com
+  - delets.online
   - delicious.com.au
   - dell.ac
   - dell.am
@@ -10479,6 +10484,7 @@ domain_suffix_set:
   - getporn.tv
   - getprintersupports.com
   - getscorecash.com
+  - getsentry.com
   - getsexgames.com
   - getsynapse.io
   - gettyimages.at
@@ -11388,6 +11394,8 @@ domain_suffix_set:
   - hao62.xyz
   - haori888.com
   - haplorrhini.com
+  - happ.info
+  - happ.su
   - happymeal.co.nz
   - happymeal.com
   - happymeal.com.au
@@ -16770,6 +16778,7 @@ domain_suffix_set:
   - motiongraphicsandmore.com
   - motionpictureser.com
   - moto.com
+  - motocms.com
   - motolia.com
   - motopress.com
   - motorola.ca
@@ -18612,6 +18621,7 @@ domain_suffix_set:
   - onekey.so
   - onekeycn.com
   - oneme.ru
+  - onemoment.cc
   - onemozilla.org
   - onepornlist.com
   - onesiterip.com
@@ -19030,6 +19040,7 @@ domain_suffix_set:
   - paxlicense.org
   - paydiant.com
   - payecom.ru
+  - payget.pro
   - paygonline.com
   - payhulu.com
   - paylike.com
@@ -19515,6 +19526,7 @@ domain_suffix_set:
   - plastics-cadcam.com
   - platiecom.ru
   - platinumlinks.org
+  - platov.co
   - play-bmm.shop
   - play-bmmer.buzz
   - play4free.com
@@ -20527,6 +20539,8 @@ domain_suffix_set:
   - rakutengiftcards.ca
   - rakuya.com.tw
   - ram.ac.uk
+  - ramon.cash
+  - ramon.money
   - randd.ac.uk
   - randomsystems-cdt.ac.uk
   - randyblue.com
@@ -21766,6 +21780,7 @@ domain_suffix_set:
   - sensualmothers.com
   - sensueel.net
   - sentry-cdn.com
+  - sentry.dev
   - senzuritv.net
   - seo-dash.net
   - seodirector.ai
@@ -23723,6 +23738,7 @@ domain_suffix_set:
   - temenos.ac.uk
   - temetube.xyz
   - temp-mail.org
+  - templatemonster.com
   - tempusuk.ac.uk
   - tenbin.ai
   - tenbyfotolia.com
@@ -26061,6 +26077,7 @@ domain_suffix_set:
   - wbautomation.ru
   - wbautomation.tech
   - wbbasket.ru
+  - wbcontent.net
   - wbd.ms
   - wbdnbo.net
   - wbdubna.ru
