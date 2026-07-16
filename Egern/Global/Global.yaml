@@ -1,10 +1,11 @@
 # 规则名称: Global
-# 规则统计: 34827
+# 规则统计: 34842
 
 no_resolve: true
 domain_set:
   - 1password.drift.click
   - adobeereg.com
+  - agb9r0ad.qllfkl.com
   - angle.com.tw
   - api-p.videomarket.jp
   - apple.com.akadns.net
@@ -45,6 +46,7 @@ domain_set:
   - github-api.arkoselabs.com
   - gog-cdn-lumen.secure2.footprint.net
   - gog.qtlglb.com
+  - hb4bbbbb.pmhcjk.com
   - holoxx.f5.si
   - hpstore.corpmerchandise.com
   - hub.slarker.me
@@ -56,6 +58,7 @@ domain_set:
   - medone-education.thieme.com
   - muse.jhu.edu
   - nationalaustraliaban.tt.omtrdc.net
+  - nbbb1bb7.pmhcjk.com
   - ntp-c.colorado.edu
   - ntp.time.nl
   - ntp0.ntp-servers.net
@@ -78,6 +81,7 @@ domain_set:
   - practivate.adobe.ntp
   - public-us-pingsx.api.clonoth.com
   - push-apple.com.akadns.net
+  - q676790b.pmhcjk.com
   - qualcomm.sc.omtrdc.net
   - roovza-launches.appsflyersdk.com
   - roovza.inapps.appsflyersdk.com
@@ -1434,7 +1438,6 @@ domain_suffix_set:
   - alexanderlondoncollege.ac.uk
   - alexanderstreet.com
   - alfa.me
-  - alfabank.oavdo.amc
   - alfabank.ru
   - alfabank.st
   - alfadirect.ru
@@ -4490,6 +4493,7 @@ domain_suffix_set:
   - bnef.com
   - bntrace.com
   - bnu.ac.uk
+  - bnxz.net
   - boa.ac.uk
   - bobble.ac.uk
   - boboporn.com
@@ -5034,6 +5038,7 @@ domain_suffix_set:
   - byjhd.com
   - bymj.io
   - byspotify.com
+  - bystys.tech
   - bytick.com
   - byzantine-ahrb-centre.ac.uk
   - byzantium.ac.uk
@@ -5640,6 +5645,7 @@ domain_suffix_set:
   - chatango.com
   - chatgpt.com
   - chatgpt.livekit.cloud
+  - chatgpt.site
   - chatgptvideo.xyz
   - chatgptvideob.buzz
   - chatsex.xxx
@@ -14369,6 +14375,7 @@ domain_suffix_set:
   - khotruyentranhx.com
   - kiad.ac.uk
   - kichikuou.com
+  - kick.com
   - kickporn.com
   - kickshatchannel.com
   - kicksnike1.com
@@ -14910,6 +14917,11 @@ domain_suffix_set:
   - lightxxxtube.com
   - lihe.ac.uk
   - lihksnap.com
+  - like-video.com
+  - likee.com
+  - likeeapp.ru
+  - likeevideo.com
+  - likeevideo.ru
   - likeseiyu.com
   - liketruyen.net
   - liketwice.com
@@ -18858,6 +18870,7 @@ domain_suffix_set:
   - overthumbs.com
   - owl-elearning.ac.uk
   - owsc.ac.uk
+  - owxd.xyz
   - ox.ac.uk
   - oxademy.ac.uk
   - oxahsc.ac.uk
@@ -25049,6 +25062,7 @@ domain_suffix_set:
   - uxbridgecollege.ac.uk
   - uxthemes.com
   - uxxxporn.com
+  - uxzw.club
   - uyghurcanadian.ca
   - v-av.com
   - v-has.com
@@ -27813,6 +27827,7 @@ domain_suffix_set:
   - ysvia.com
   - yswet.com
   - ysx-mm.com
+  - yucf.top
   - yuenuge113.xyz
   - yuenuge18.cc
   - yugioh-card.com
