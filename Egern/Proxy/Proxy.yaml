@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6880
+# 规则统计: 6881
 
 no_resolve: true
 domain_set:
@@ -40,6 +40,7 @@ domain_suffix_set:
   - 18board.com
   - 18board.info
   - 18comic.org
+  - 18comic.vip
   - 18mh.net
   - 18onlygirls.com
   - 18p2p.com

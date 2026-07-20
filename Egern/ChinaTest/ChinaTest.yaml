@@ -1,5 +1,5 @@
 # 规则名称: ChinaTest
-# 规则统计: 111869
+# 规则统计: 111870
 
 no_resolve: true
 domain_set:
@@ -68766,6 +68766,7 @@ domain_suffix_set:
   - mychunyan.net
   - myckjr.com
   - mycleanmymac.com
+  - mycloudnas.com
   - mycloudstudy.com
   - myclub2.com
   - mycnc.org
