@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "hiby.cd",
+        "hiby.com",
+        "hibymusic.com"
+      ]
+    }
+  ]
+}

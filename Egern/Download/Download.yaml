@@ -1,0 +1,11 @@
+# 规则名称: Download
+# 规则统计: 6
+
+domain_suffix_set:
+  - qbittorrent.org
+domain_keyword_set:
+  - aria2
+  - thunder
+  - xlliveud
+  - xunlei
+  - yunpan

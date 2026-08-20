@@ -1,0 +1,13 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ctfile.com",
+        "ctfile.net",
+        "n802.com",
+        "tv002.com"
+      ]
+    }
+  ]
+}
