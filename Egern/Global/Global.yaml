@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 35004
+# 规则统计: 35014
 
 no_resolve: true
 domain_set:
@@ -512,6 +512,7 @@ domain_suffix_set:
   - 59mvmv.com
   - 5axis-machining.com
   - 5beatsbydre.com
+  - 5ch.io
   - 5ch.net
   - 5fang.cc
   - 5itv.tv
@@ -1750,6 +1751,7 @@ domain_suffix_set:
   - amazontrust.com
   - amazonvideo.cc
   - amazonvideodirect.com
+  - amazonwebservices.com
   - amazonworkdocs.com
   - ambs.ac.uk
   - amc.com
@@ -7736,6 +7738,7 @@ domain_suffix_set:
   - dream-cdt.ac.uk
   - dreambmw.ca
   - dreamforce.com
+  - dreamgen.com
   - dreammovies.com
   - dreamorder.com
   - dreamteamfc.com
@@ -9326,6 +9329,7 @@ domain_suffix_set:
   - fans17.com
   - fans66.tw
   - fansking.tw
+  - fansly.com
   - fansnudes.com
   - fansone.co
   - fanspot.jp
@@ -17865,6 +17869,8 @@ domain_suffix_set:
   - nicis.ac.uk
   - nickscipio.com
   - nicky.xxx
+  - nico.ms
+  - nicochannel.jp
   - nicodic.jp
   - nicolepeters.com
   - nicomanga.jp
@@ -18196,6 +18202,7 @@ domain_suffix_set:
   - northumbria.ac.uk
   - norton.com
   - norwichresearchpark.ac.uk
+  - notegpt.io
   - noticias-rt.com
   - notimundo.press
   - notion-static.com
@@ -18219,6 +18226,7 @@ domain_suffix_set:
   - nottinghamtrentadfs.ac.uk
   - nottm-coll.ac.uk
   - nottsmaternity.ac.uk
+  - novelai.net
   - novella.ac.uk
   - noveltrove.com
   - novids.com
@@ -23707,6 +23715,7 @@ domain_suffix_set:
   - talantix.ru
   - talentlens.com
   - taleofthenight.com
+  - talkai.info
   - talkinghealthmatters.ac.uk
   - talkingkotlin.com
   - talksport.com
@@ -32247,6 +32256,7 @@ domain_suffix_set:
   - okpool.me
   - okx.com
   - old-cat.net
+  - oldmapsonline.org
   - olehdtv.com
   - olelive.com
   - olevod.com

@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6892
+# 规则统计: 6893
 
 no_resolve: true
 domain_set:
@@ -4140,6 +4140,7 @@ domain_suffix_set:
   - okpool.me
   - okx.com
   - old-cat.net
+  - oldmapsonline.org
   - olehdtv.com
   - olelive.com
   - olevod.com
