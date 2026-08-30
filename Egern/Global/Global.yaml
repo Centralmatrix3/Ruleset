@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 35023
+# 规则统计: 35027
 
 no_resolve: true
 domain_set:
@@ -659,6 +659,7 @@ domain_suffix_set:
   - 9anime.id
   - 9anime.to
   - 9anime.ws
+  - 9cao9.com
   - 9ccms.me
   - 9cdn.net
   - 9hentai.ru
@@ -20967,6 +20968,7 @@ domain_suffix_set:
   - relu.ac.uk
   - rememberingslavery.ac.uk
   - remirepo.net
+  - remna.st
   - rems-cdt.ac.uk
   - renaissanceskin.ac.uk
   - rencapbank.ru
@@ -24355,6 +24357,7 @@ domain_suffix_set:
   - toperoticartsites.com
   - topescort.nl
   - topescortbabes.com
+  - topexhib.net
   - topface.com
   - topfantasyart.com
   - topfreepornvideos.com
@@ -34542,6 +34545,7 @@ domain_suffix_set:
   - wqyd.org
   - wrchina.org
   - wretch.cc
+  - write.as
   - writesonic.com
   - wsj.com
   - wsj.net
