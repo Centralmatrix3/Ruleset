@@ -9,9 +9,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      PYTHONPATH: "Scripts"
       TZ: "Asia/Shanghai"
-      SINGBOX_VERSION: "1.13.19"
+      SINGBOX_VERSION: "1.14.0"
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v7.0.1
@@ -24,13 +23,12 @@ jobs:
 
       - name: Sync Ruleset
         run: |
-          python -m Build Source
+          python Scripts/Build.py
 
       - name: Convert Rule
         run: |
-          python -m Build Egern Egern
-          python -m Build Singbox Singbox
-          find . -type d -name "__pycache__" -exec rm -rf {} +
+          python Scripts/Build.py Egern Egern/
+          python Scripts/Build.py Singbox Singbox/
 
       - name: Compile Rule
         run: |
