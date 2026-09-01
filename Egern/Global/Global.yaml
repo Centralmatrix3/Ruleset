@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 35027
+# 规则统计: 35028
 
 no_resolve: true
 domain_set:
@@ -17876,7 +17876,6 @@ domain_suffix_set:
   - nicolepeters.com
   - nicomanga.jp
   - niconico.com
-  - nicoseiga.jp
   - niees.ac.uk
   - niesr.ac.uk
   - night.livedoor.biz
@@ -30400,6 +30399,7 @@ domain_suffix_set:
   - getlantern.org
   - getmalus.com
   - getmdl.io
+  - getmonero.org
   - getoutline.org
   - getpricetag.com
   - getsession.org
@@ -32109,6 +32109,7 @@ domain_suffix_set:
   - nhncorp.jp
   - nianticlabs.com
   - nic.gov
+  - nicoseiga.jp
   - nicovideo.jp
   - nighost.org
   - nightlife141.com
