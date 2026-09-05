@@ -9,8 +9,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      TZ: "Asia/Shanghai"
       SINGBOX_VERSION: "1.14.0"
+      TZ: "Asia/Shanghai"
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v7.0.1
@@ -21,14 +21,14 @@ jobs:
           repository: blackmatrix7/ios_rule_script
           path: ios_rule_script
 
-      - name: Sync Ruleset
+      - name: Sources Sync
         run: |
-          python Scripts/Build.py
+          python Build.py
 
       - name: Convert Rule
         run: |
-          python Scripts/Build.py Egern Egern/
-          python Scripts/Build.py Singbox Singbox/
+          python Build.py Egern Egern/
+          python Build.py Singbox Singbox/
 
       - name: Compile Rule
         run: |
