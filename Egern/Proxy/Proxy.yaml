@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6904
+# 规则统计: 6906
 
 no_resolve: true
 domain_set:
@@ -1306,6 +1306,7 @@ domain_suffix_set:
   - csw.org.uk
   - ct.org.tw
   - ctao.org
+  - ctee.com.tw
   - ctfriend.net
   - ctinets.com
   - ctinews.com
@@ -3361,6 +3362,7 @@ domain_suffix_set:
   - linpie.com
   - linux.do
   - linux.org.hk
+  - linux.sb
   - linuxtoy.org
   - lionsroar.com
   - lipuman.com
