@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 35042
+# 规则统计: 35043
 
 no_resolve: true
 domain_set:
@@ -18149,6 +18149,7 @@ domain_suffix_set:
   - nodequality.com
   - nodereal.io
   - nodes.ac.uk
+  - nodeseek.org
   - nodesnoop.com
   - nodesource.com
   - noisullifb.com
