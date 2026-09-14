@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6915
+# 规则统计: 6916
 
 no_resolve: true
 domain_set:
@@ -4615,6 +4615,7 @@ domain_suffix_set:
   - qstatus.com
   - qtrac.eu
   - qtweeter.com
+  - quakemachinex.com
   - quannengshen.org
   - quantumbooter.net
   - quay.io

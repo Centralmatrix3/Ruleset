@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 35043
+# 规则统计: 35044
 
 no_resolve: true
 domain_set:
@@ -32735,6 +32735,7 @@ domain_suffix_set:
   - qstatus.com
   - qtrac.eu
   - qtweeter.com
+  - quakemachinex.com
   - quannengshen.org
   - quantumbooter.net
   - quay.io
