@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 35044
+# 规则统计: 35047
 
 no_resolve: true
 domain_set:
@@ -23361,6 +23361,9 @@ domain_suffix_set:
   - stripe-terminal-local-reader.net
   - stripe.ac.uk
   - stripe.com
+  - stripe.dev
+  - stripe.events
+  - stripe.global
   - stripe.network
   - stripecdn.com
   - stripparadise.com
