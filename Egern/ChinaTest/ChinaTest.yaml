@@ -1,5 +1,5 @@
 # 规则名称: ChinaTest
-# 规则统计: 110974
+# 规则统计: 110975
 
 no_resolve: true
 domain_set:
@@ -83243,6 +83243,7 @@ domain_suffix_set:
   - sjf029.com
   - sjfcdn.com
   - sjfh168.com
+  - sjfls6.com
   - sjfpro.com
   - sjfzxm.com
   - sjg8.com

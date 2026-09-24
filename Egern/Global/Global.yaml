@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 35052
+# 规则统计: 35054
 
 no_resolve: true
 domain_set:
@@ -29254,6 +29254,7 @@ domain_suffix_set:
   - chinesen.de
   - chinesenews.net.au
   - chinesepen.org
+  - chineseposters.net
   - chineseradioseattle.com
   - chinesetalks.net
   - chineseupress.com
@@ -32174,6 +32175,7 @@ domain_suffix_set:
   - nordstromrack.com
   - nordvpn.com
   - nos.nl
+  - note.com
   - notepad-plus-plus.org
   - notion.so
   - nottinghampost.com
