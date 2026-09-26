@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 35054
+# 规则统计: 35053
 
 no_resolve: true
 domain_set:
@@ -15010,7 +15010,6 @@ domain_suffix_set:
   - likee.com
   - likeeapp.ru
   - likeevideo.com
-  - likeevideo.ru
   - likeseiyu.com
   - liketruyen.net
   - liketwice.com
