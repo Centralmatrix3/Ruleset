@@ -6,7 +6,10 @@
         "fast.com",
         "ooklaserver.net",
         "speed.cloudflare.com",
-        "speed.dler.io"
+        "speed.dler.io",
+        "speedtest.co",
+        "speedtest.net",
+        "speedtestcustom.com"
       ],
       "domain_keyword": [
         "speedtest"
