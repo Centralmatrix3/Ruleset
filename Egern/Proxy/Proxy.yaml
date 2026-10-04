@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6926
+# 规则统计: 6930
 
 no_resolve: true
 domain_set:
@@ -6252,6 +6252,7 @@ domain_suffix_set:
   - waiwaier.com
   - walletconnect.com
   - walletconnect.org
+  - wallhaven.cc
   - wallmama.com
   - wallornot.org
   - wallpapercasa.com
@@ -6373,6 +6374,7 @@ domain_suffix_set:
   - wikia.com
   - wikibooks.org
   - wikidata.org
+  - wikifunctions.org
   - wikileaks-forum.com
   - wikileaks.ch
   - wikileaks.com
@@ -6385,12 +6387,14 @@ domain_suffix_set:
   - wikilivres.info
   - wikimapia.org
   - wikimedia.org
+  - wikimediafoundation.org
   - wikinews.org
   - wikipedia.com
   - wikipedia.org
   - wikiquote.org
   - wikis.tw
   - wikisource.org
+  - wikispecies.org
   - wikiunblocked.org
   - wikiversity.org
   - wikivoyage.org

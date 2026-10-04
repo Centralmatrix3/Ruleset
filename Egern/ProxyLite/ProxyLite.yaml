@@ -1,5 +1,5 @@
 # 规则名称: ProxyLite
-# 规则统计: 985
+# 规则统计: 987
 
 no_resolve: true
 domain_set:
@@ -802,6 +802,7 @@ domain_suffix_set:
   - whoer.net
   - wikibooks.org
   - wikidata.org
+  - wikifunctions.org
   - wikileaks-forum.com
   - wikileaks.info
   - wikileaks.org
@@ -813,6 +814,7 @@ domain_suffix_set:
   - wikipedia.org
   - wikiquote.org
   - wikisource.org
+  - wikispecies.org
   - wikiversity.org
   - wikivoyage.org
   - wikiwand.com
