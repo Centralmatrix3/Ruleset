@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 35066
+# 规则统计: 35067
 
 no_resolve: true
 domain_set:
@@ -11156,6 +11156,7 @@ domain_suffix_set:
   - googlepagecreator.com
   - googlephotos.com
   - googleplay.com
+  - googleplaycensorship.com
   - googleplex.com
   - googleplus.com
   - googlescholar.com
