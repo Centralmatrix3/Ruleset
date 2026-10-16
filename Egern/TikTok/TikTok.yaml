@@ -1,5 +1,5 @@
 # 规则名称: TikTok
-# 规则统计: 31
+# 规则统计: 34
 
 domain_set:
   - lf16-effectcdn.byteeffecttos-g.com
@@ -12,6 +12,9 @@ domain_suffix_set:
   - byteintlapi.com
   - byteoversea.com
   - capcut.com
+  - capcutapi.com
+  - capcutapi.us
+  - capcutstatic.com
   - ibytedtos.com
   - ibyteimg.com
   - ipstatp.com
