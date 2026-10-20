@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 35189
+# 规则统计: 35205
 
 no_resolve: true
 domain_set:
@@ -2512,7 +2512,6 @@ domain_suffix_set:
   - asminternational.org
   - asmrbuluo.com
   - asn-online.org
-  - asobostudio.com
   - asp-cc.com
   - asp.net
   - aspbjournals.org
@@ -3536,8 +3535,15 @@ domain_suffix_set:
   - beforeigners.com
   - befuck.com
   - befuck.net
+  - beget.app
+  - beget.cloud
   - beget.com
+  - beget.de
+  - beget.hosting
+  - beget.pro
   - beget.ru
+  - beget.tech
+  - begetcdn.cloud
   - begin-trade.com
   - behaviour4learning.ac.uk
   - behavioural-science.ac.uk
@@ -3585,6 +3591,7 @@ domain_suffix_set:
   - beru.ru
   - besa.ac.uk
   - besc.ac.uk
+  - beserver.ru
   - beside.ac.uk
   - bess.ac.uk
   - best-sex-games.com
@@ -3697,6 +3704,7 @@ domain_suffix_set:
   - bfmat.ac.uk
   - bftv.ac.uk
   - bgc.ac.uk
+  - bget.ru
   - bgicdn.com
   - bgov.com
   - bgr.in
@@ -6699,6 +6707,7 @@ domain_suffix_set:
   - cursor.com
   - cursor.sh
   - cursorapi.com
+  - cursorvm.com
   - curve.fi
   - curvybbwwives.com
   - curvyerotic.com
@@ -9775,7 +9784,6 @@ domain_suffix_set:
   - fli8.xyz
   - flic.kr
   - flickr.net
-  - flightsimulator.com
   - flipfap.com
   - flipnotestudio.com
   - flipshare.com
@@ -18864,6 +18872,7 @@ domain_suffix_set:
   - opac-project.eu
   - opdems.ac.uk
   - open.ac.uk
+  - openai.org
   - openamt.com
   - openapiplatform.com
   - openapiservice.com
@@ -20499,6 +20508,7 @@ domain_suffix_set:
   - pussyshine.info
   - pussyspace.net
   - putinho.net
+  - pv-cdn.net
   - pvp.net
   - pvp.tv
   - pvt.sexy
@@ -21754,6 +21764,7 @@ domain_suffix_set:
   - school-economic-science.ac.uk
   - schwab.com.sg
   - schwabassetmanagement.com
+  - schwabcdn.com
   - schwabplan.com
   - sci-hub.it.nf
   - sci-hub.mksa.top
@@ -23055,6 +23066,7 @@ domain_suffix_set:
   - springernature.com
   - sprinklesapp.com
   - sprint.ac.uk
+  - sprut.io
   - spsrn.ac.uk
   - sptvbroadcast.com
   - spurgeons.ac.uk
@@ -24321,6 +24333,8 @@ domain_suffix_set:
   - timestalks.com
   - timeweb.cloud
   - timeweb.com
+  - timeweb.tech
+  - timewebcloud.kz
   - timi1.me
   - timo0.com
   - ting53.xyz
@@ -24838,6 +24852,7 @@ domain_suffix_set:
   - typeisbeautiful.com
   - typekit.com
   - typenetwork.com
+  - typesafe.ai
   - typesquare.com
   - tyre-cadcam.com
   - tyrecadcam.com
@@ -27118,6 +27133,7 @@ domain_suffix_set:
   - xn--90ab.com
   - xn--90ab2c.xn--p1ai
   - xn--90absjljw3g.xn--p1ai
+  - xn--90aefb9d.xn--p1ai
   - xn--90aifd0az.shop
   - xn--90aifd0azb.xn--p1acf
   - xn--9kr7l.com
