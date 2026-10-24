@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 35205
+# 规则统计: 35256
 
 no_resolve: true
 domain_set:
@@ -330,6 +330,7 @@ domain_suffix_set:
   - 21vv.cc
   - 22112211.xyz
   - 2371tom.com
+  - 24.place
   - 24h.tv
   - 24hjav.com
   - 24porn.com
@@ -1900,6 +1901,7 @@ domain_suffix_set:
   - anonproxy.info
   - ansarbank.com
   - ansin.erodayo.com
+  - ant.dev
   - antarctic.ac.uk
   - antarctica.ac.uk
   - antarvasnaclips.com
@@ -1909,6 +1911,7 @@ domain_suffix_set:
   - anthemgame.com
   - anthemthegame.com
   - anthropic.com
+  - anthropic.team
   - anthropology.ac.uk
   - anticipate.ac.uk
   - antiphishing.nl
@@ -1916,6 +1919,7 @@ domain_suffix_set:
   - antiquity.ac.uk
   - antislavery.ac.uk
   - antislaverylaw.ac.uk
+  - antspace.dev
   - anudetube.com
   - anws.gov.tw
   - anxiangxing.com
@@ -2840,8 +2844,10 @@ domain_suffix_set:
   - avinetworks.com
   - avinin.com
   - avira.com
+  - avito.com
   - avito.ru
   - avito.st
+  - avito.tech
   - avizoon.site
   - avizoone.com
   - avjb.com
@@ -3974,6 +3980,8 @@ domain_suffix_set:
   - blms.ac.uk
   - blob.core.windows.net
   - blockchain.com
+  - blockchair.com
+  - blockchair.net
   - blockfrost.io
   - blog.descargasgay.com
   - blogcatalog.com
@@ -5700,6 +5708,7 @@ domain_suffix_set:
   - chase.ac.uk
   - chasestudy.ac.uk
   - chatango.com
+  - chatbotclaude.com
   - chatgpt.com
   - chatgpt.livekit.cloud
   - chatgptvideo.xyz
@@ -6027,9 +6036,15 @@ domain_suffix_set:
   - classymomsex.com
   - clau.de
   - claude.ai
+  - claude.app
   - claude.dev
+  - claude.new
+  - claude.site
+  - claudeacademy.com
   - claudemcpclient.com
   - claudemcpcontent.com
+  - claudepages.dev
+  - claudestudio.com
   - claudeusercontent.com
   - clawhub.ai
   - clc-london.ac.uk
@@ -6486,6 +6501,7 @@ domain_suffix_set:
   - cpz.to
   - cqcorea.com
   - crabporn.com
+  - craftifyx.com
   - craigslist.org
   - cral.ac.uk
   - cran.ac.uk
@@ -6588,6 +6604,7 @@ domain_suffix_set:
   - crustwebsites.net
   - crypto.com
   - cryptocompare.com
+  - cryptoid.info
   - cryptomus.com
   - crypton.co.jp
   - crysis.jp
@@ -6983,6 +7000,7 @@ domain_suffix_set:
   - delcamtv.com
   - delcamuniversity.com
   - delcamusa.com
+  - delets.cash
   - delets.online
   - delicious.com.au
   - delivery-club.ru
@@ -9364,6 +9382,7 @@ domain_suffix_set:
   - famouspornstars.com
   - fanaken.com
   - fandango.com
+  - fanfiction.net
   - fanfictionero.com
   - fanfox.net
   - fangsung.com
@@ -9809,6 +9828,17 @@ domain_suffix_set:
   - fluids.ac.uk
   - flutter.dev
   - flutterapp.com
+  - fluxer.app
+  - fluxer.com
+  - fluxer.dev
+  - fluxer.gg
+  - fluxer.gift
+  - fluxer.media
+  - fluxer.tools
+  - fluxerapp.com
+  - fluxerstatic.com
+  - fluxerstatus.com
+  - fluxerusercontent.com
   - fly.dev
   - fly.io
   - flyflv.com
@@ -10274,6 +10304,7 @@ domain_suffix_set:
   - fundraisingwithfacebook.com
   - fundsupermart.com
   - funimation.com
+  - funko.com
   - funnyfacebook.org
   - funnyordie.com
   - funpay.com
@@ -10360,6 +10391,7 @@ domain_suffix_set:
   - game-platform.net
   - game-repack.site
   - gameapps.hk
+  - gamebanana.com
   - gamebeforethegame.com
   - gamebiz.jp
   - gamebusiness.jp
@@ -10612,6 +10644,7 @@ domain_suffix_set:
   - getpocket.com
   - getporn.tv
   - getprintersupports.com
+  - getsafety.com
   - getscorecash.com
   - getsentry.com
   - getsexgames.com
@@ -10770,6 +10803,8 @@ domain_suffix_set:
   - glenfife.ac.uk
   - glenrothes-college.ac.uk
   - glhl.ac.uk
+  - glitchprod.com
+  - glitchproductions.store
   - glitchwave.com
   - gllm.ac.uk
   - global-sci.org
@@ -14711,6 +14746,7 @@ domain_suffix_set:
   - kumo.com
   - kun66.xyz
   - kundun1069.com
+  - kurs.expert
   - kusugurizanmai.com
   - kutjeporno.com
   - kuzbank.ru
@@ -15595,6 +15631,7 @@ domain_suffix_set:
   - magicmovies.com
   - maglue.ac.uk
   - magnacartacollege.ac.uk
+  - magnific.com
   - mahajantech.com
   - mahsc.ac.uk
   - maidonanews.jp
@@ -15624,6 +15661,7 @@ domain_suffix_set:
   - makeitrealcontest.com
   - makerepeater.jp
   - makesenseofdata.com
+  - makeship.com
   - makeshop.jp
   - makingassessmentcount.ac.uk
   - makingstartshere.com
@@ -17103,6 +17141,7 @@ domain_suffix_set:
   - mtao.fun
   - mtec.ac.uk
   - mti.ac.uk
+  - mts-link.ru
   - mts-ws.net
   - mts.ru
   - mtsbank.ru
@@ -19049,6 +19088,7 @@ domain_suffix_set:
   - overseas.weibo.com
   - overthumbs.com
   - owl-elearning.ac.uk
+  - ownaj.com
   - owsc.ac.uk
   - owxd.xyz
   - ox.ac.uk
@@ -20238,6 +20278,7 @@ domain_suffix_set:
   - postimages.org
   - postimg.cc
   - postini.com
+  - postman.com
   - posty.kr
   - postyourgirls.ws
   - potenza.jp
@@ -20532,6 +20573,7 @@ domain_suffix_set:
   - pypl.tv
   - pyrobot.org
   - python.org
+  - pyup.io
   - pzforever.skin
   - pzforever01.homes
   - pzhanfor.today
@@ -20696,6 +20738,7 @@ domain_suffix_set:
   - r18lu-avi.shop
   - r18lu.com
   - r2.dev
+  - r2modman.com
   - r34porn.net
   - ra-review.ac.uk
   - raa.ac.uk
@@ -21551,6 +21594,7 @@ domain_suffix_set:
   - safeliner.tech
   - safepal.com
   - safepodnetwork.ac.uk
+  - safetycli.com
   - saffrontech.com
   - sagabank.co.jp
   - sage-observability.tech
@@ -23305,6 +23349,7 @@ domain_suffix_set:
   - stdoms.ac.uk
   - stealthex.io
   - steamconnecttest.com
+  - steamos.cloud
   - stec.ac.uk
   - steelbrick.com
   - steemitwallet.com
@@ -24045,6 +24090,7 @@ domain_suffix_set:
   - tgirlcentral.com
   - tgirlpostop.com
   - tgp6.com
+  - tgtime.store
   - tgtube.com
   - tgutube.com
   - th.hao123.com
@@ -24286,6 +24332,8 @@ domain_suffix_set:
   - thunderbird.net
   - thunderbolttechnology.net
   - thundermail.com
+  - thunderstore.io
+  - thunderstore.org
   - thurrock.ac.uk
   - thurrockcampus.ac.uk
   - thz7.net
@@ -24385,6 +24433,7 @@ domain_suffix_set:
   - tmcs.ac.uk
   - tmei-taoyuan.com
   - tmiaf.ru
+  - tmimgcdn.com
   - tmn.ac.uk
   - tmsnrt.rs
   - tnatryouts.com
@@ -26824,6 +26873,7 @@ domain_suffix_set:
   - worldoftanks.eu
   - worldofwarcraft.com
   - worldofwarplanes.com
+  - worldofwarships.asia
   - worldofwarships.com
   - worldpornvideos.com
   - worldsecureemail.com
@@ -27879,6 +27929,7 @@ domain_suffix_set:
   - youshare.ac.uk
   - youskbe.com
   - youthforfreechina.org
+  - youtooz.com
   - youtrack.cloud
   - youtrannytube.com
   - youtube-nocookie.com
