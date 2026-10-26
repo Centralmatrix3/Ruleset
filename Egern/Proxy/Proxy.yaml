@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6965
+# 规则统计: 6985
 
 no_resolve: true
 domain_set:
@@ -26,6 +26,7 @@ domain_suffix_set:
   - 111666.best
   - 123av.com
   - 123av.me
+  - 123av.org
   - 123rf.com
   - 12bet.com
   - 12vpn.com
@@ -654,6 +655,7 @@ domain_suffix_set:
   - bibliocommons.com
   - bibox.com
   - bic2011.org
+  - bidobido.xyz
   - biedian.me
   - big.one
   - bigfools.com
@@ -663,6 +665,8 @@ domain_suffix_set:
   - bignews.org
   - bigone.com
   - bigsound.org
+  - bikaios.xyz
+  - bikawebapp.com
   - bild.de
   - bilinovel.com
   - biliworld.com
@@ -1258,6 +1262,7 @@ domain_suffix_set:
   - compose-spec.io
   - compress.to
   - conoha.jp
+  - console.typesafe.ai
   - constitutionalism.solutions
   - contactmagazine.net
   - content.office.net
@@ -1498,6 +1503,7 @@ domain_suffix_set:
   - disquscdn.com
   - dit-inc.us
   - divdyn.com
+  - diwodiwo.xyz
   - diyin.org
   - dizhidizhi.com
   - dizhuzhishang.com
@@ -2198,6 +2204,7 @@ domain_suffix_set:
   - g.kfd.me
   - g0v.social
   - g6hentai.com
+  - ga.jspm.io
   - gab.com
   - gabia.net
   - gabocorp.com
@@ -2749,6 +2756,7 @@ domain_suffix_set:
   - htx.com
   - hua-yue.net
   - huaglad.com
+  - huakacomic.com
   - huanghuagang.org
   - huangyiyu.com
   - huaren.us
@@ -3221,6 +3229,7 @@ domain_suffix_set:
   - kichiku-doujinko.com
   - kik.com
   - killwall.com
+  - kimootoko.net
   - kindle4rss.com
   - kindleren.com
   - kingdomsalvation.org
@@ -3520,6 +3529,7 @@ domain_suffix_set:
   - mangafox.me
   - mangaup.jp
   - mangmang.run
+  - manhuabika.com
   - manhuaren.com
   - maniash.com
   - manicur4ik.ru
@@ -3688,6 +3698,7 @@ domain_suffix_set:
   - miniforum.org
   - miningpoolhub.com
   - ministrybooks.org
+  - minkch.com
   - minzhuhua.net
   - minzhuzhanxian.com
   - minzhuzhongguo.org
@@ -3780,6 +3791,7 @@ domain_suffix_set:
   - mousebreaker.com
   - movements.org
   - moves-export.com
+  - movie.eroterest.net
   - moviefap.com
   - mozilla.org
   - moztw.org
@@ -4049,6 +4061,9 @@ domain_suffix_set:
   - niu.moe
   - niusnews.com
   - njactb.org
+  - njav.com
+  - njav.tv
+  - njavtv.com
   - njuice.com
   - nlfreevpn.com
   - nmsl.website
@@ -4408,6 +4423,7 @@ domain_suffix_set:
   - phuquocservices.com
   - piaotia.com
   - piaotian.net
+  - pica-id.com
   - picacomic.com
   - picacomiccn.com
   - picasaweb.com
@@ -4485,6 +4501,7 @@ domain_suffix_set:
   - plusbb.com
   - pmatehunter.com
   - pmates.com
+  - po-kaki-to.com
   - po2b.com
   - pobieramy.top
   - podbean.com
@@ -5705,6 +5722,7 @@ domain_suffix_set:
   - tinypic.com
   - tinyurl.com
   - tipas.net
+  - tipatipa.xyz
   - tistory.com
   - tkcs-collins.com
   - tl.gd
@@ -6403,6 +6421,7 @@ domain_suffix_set:
   - whyx.org
   - widevine.com
   - wikaba.com
+  - wikawika.xyz
   - wiki.esu.im
   - wiki.kfd.me
   - wikia.com
@@ -6829,6 +6848,7 @@ domain_suffix_set:
   - zophar.net
   - zorrovpn.com
   - zozotown.com
+  - zozovideo.com
   - zpn.im
   - zsdxzk.com
   - zspeeder.me
