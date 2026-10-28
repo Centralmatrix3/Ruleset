@@ -1,5 +1,5 @@
 # 规则名称: ChinaTest
-# 规则统计: 110051
+# 规则统计: 110053
 
 no_resolve: true
 domain_set:
@@ -36287,6 +36287,7 @@ domain_suffix_set:
   - fillersmart.com
   - fillseo.com
   - film-yuelongchina.com
+  - filmorigin.com
   - fily.fun
   - fim34s.com
   - fin-shine.com
@@ -57849,6 +57850,7 @@ domain_suffix_set:
   - kakappt.com
   - kakashuzi.net
   - kakatx.com
+  - kakaxing.com
   - kakayuy.net
   - kaken-china.com
   - kaku-scdn.com
